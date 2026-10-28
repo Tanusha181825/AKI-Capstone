@@ -21,3 +21,9 @@ data/
 outputs/
 !config/measurement_mapping.template.csv
 !config/medication_mapping.template.csv
+!results/
+!results/mimic-iv-structured-discovery/
+!results/mimic-iv-structured-discovery/*.csv
+!results/mimic-iv-structured-discovery/*.json
+!results/mimic-iv-structured-discovery/*.txt
+!results/mimic-iv-structured-discovery/*.md
