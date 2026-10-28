@@ -1,0 +1,109 @@
+{
+  "dataset": "MIMIC_IV_ROOT/icu",
+  "results": "LOCAL_RESULTS_DIR",
+  "file_inventory": [
+    {
+      "file": "chartevents.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/chartevents.csv.gz",
+      "exists": true,
+      "size_bytes": 3502392765,
+      "columns": "subject_id;hadm_id;stay_id;caregiver_id;charttime;storetime;itemid;value;valuenum;valueuom;warning"
+    },
+    {
+      "file": "d_items.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/d_items.csv.gz",
+      "exists": true,
+      "size_bytes": 58741,
+      "columns": "itemid;label;abbreviation;linksto;category;unitname;param_type;lownormalvalue;highnormalvalue"
+    },
+    {
+      "file": "icustays.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/icustays.csv.gz",
+      "exists": true,
+      "size_bytes": 3342355,
+      "columns": "subject_id;hadm_id;stay_id;first_careunit;last_careunit;intime;outtime;los"
+    },
+    {
+      "file": "inputevents.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/inputevents.csv.gz",
+      "exists": true,
+      "size_bytes": 401088206,
+      "columns": "subject_id;hadm_id;stay_id;caregiver_id;starttime;endtime;storetime;itemid;amount;amountuom;rate;rateuom;orderid;linkorderid;ordercategoryname;secondaryordercategoryname;ordercomponenttypedescription;ordercategorydescription;patientweight;totalamount;totalamountuom;isopenbag;continueinnextdept;statusdescription;originalamount;originalrate"
+    }
+  ],
+  "d_items_rows_complete": 4095,
+  "icustays_rows_complete": 94458,
+  "chartevents": {
+    "rows": 1000000,
+    "complete": false,
+    "unique_itemids": 1448,
+    "unique_stays": 195,
+    "min": "2110-04-11 15:52:00",
+    "max": "2200-10-05 17:48:00",
+    "missing": {
+      "stay_id_missing": 0,
+      "charttime_missing": 0,
+      "valuenum_missing": 616637,
+      "valueuom_missing": 767286
+    },
+    "invalid": {
+      "charttime_invalid_nonmissing": 0,
+      "valuenum_nonnumeric_nonmissing": 0
+    },
+    "dtypes": {
+      "stay_id": "int64",
+      "charttime": "str",
+      "itemid": "int64",
+      "valuenum": "float64",
+      "valueuom": "str"
+    },
+    "seconds": 4.44
+  },
+  "inputevents": {
+    "rows": 500000,
+    "complete": false,
+    "unique_itemids": 260,
+    "unique_stays": 3829,
+    "min": "2110-01-22 07:00:00",
+    "max": "2208-05-17 20:06:00",
+    "missing": {
+      "stay_id_missing": 0,
+      "starttime_missing": 0,
+      "endtime_missing": 0,
+      "amount_missing": 0,
+      "rate_missing": 222140,
+      "amountuom_missing": 0,
+      "rateuom_missing": 222140
+    },
+    "invalid": {
+      "starttime_invalid_nonmissing": 0,
+      "endtime_invalid_nonmissing": 0,
+      "amount_nonnumeric_nonmissing": 0,
+      "rate_nonnumeric_nonmissing": 0
+    },
+    "dtypes": {
+      "stay_id": "int64",
+      "starttime": "str",
+      "endtime": "str",
+      "itemid": "int64",
+      "amount": "float64",
+      "amountuom": "str",
+      "rate": "float64",
+      "rateuom": "str"
+    },
+    "seconds": 5.95
+  },
+  "hourly_features_generated": false,
+  "medication_intervals_generated": false,
+  "patient_level_output_generated": false,
+  "blockers": [
+    "No approved measurement mapping.",
+    "No approved medication mapping.",
+    "No cohort CSV found in searched local candidate folders."
+  ],
+  "measurement_approved_mapping_count": 0,
+  "medication_approved_mapping_count": 0,
+  "cohort_csv_found": false,
+  "mapped_source_record_count": "Not evaluated; no approved mappings",
+  "duplicate_output_key_validation": "Not applicable; final feature outputs were not generated"
+}

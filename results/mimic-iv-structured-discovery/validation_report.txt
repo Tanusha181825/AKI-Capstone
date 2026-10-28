@@ -1,0 +1,19 @@
+Person 2 local MIMIC-IV discovery report
+Dataset: MIMIC_IV_ROOT/icu
+chartevents bounded first 1,000,000 rows; full scan: no; 4.44 sec
+inputevents bounded first 500,000 rows; full scan: no; 5.95 sec
+d_items complete: 4,095; icustays complete: 94,458
+chart items/stays: 1,448/195; times 2110-04-11 15:52:00 .. 2200-10-05 17:48:00
+chart missing: {"stay_id_missing": 0, "charttime_missing": 0, "valuenum_missing": 616637, "valueuom_missing": 767286}
+chart invalid: {"charttime_invalid_nonmissing": 0, "valuenum_nonnumeric_nonmissing": 0}
+input items/stays: 260/3,829; times 2110-01-22 07:00:00 .. 2208-05-17 20:06:00
+input missing: {"stay_id_missing": 0, "starttime_missing": 0, "endtime_missing": 0, "amount_missing": 0, "rate_missing": 222140, "amountuom_missing": 0, "rateuom_missing": 222140}
+input invalid: {"starttime_invalid_nonmissing": 0, "endtime_invalid_nonmissing": 0, "amount_nonnumeric_nonmissing": 0, "rate_nonnumeric_nonmissing": 0}
+No final features: mappings and cohort absent.
+Candidates are unverified; scans are first rows, not complete or random.
+No patient-level output created; data stayed local.
+Medication unit fields are separately tabulated in medication_units_by_field.csv so amountuom and rateuom remain distinct.
+Column types and scan scope are recorded in source_schema.csv.
+Approved measurement mapping rows: 0. Approved medication mapping rows: 0. Cohort CSV found: no.
+Mapped/unmapped source record counts were not evaluated because no approved allowlist or cohort was available.
+Hour/key duplicate validation is not applicable because final feature outputs were not generated. Synthetic tests cover chunk-boundary aggregation and key grouping.

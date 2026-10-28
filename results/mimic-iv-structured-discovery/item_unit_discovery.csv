@@ -1,0 +1,1773 @@
+source_file,itemid,label,source_unit,count_bounded_scan,item_count_bounded_scan,distinct_units,review_status
+chartevents.csv.gz,227969,Safety Measures,<MISSING>,31596,31596,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220045,Heart Rate,bpm,20495,20495,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220210,Respiratory Rate,insp/min,20158,20158,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220277,O2 saturation pulseoxymetry,%,20045,20045,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220048,Heart Rhythm,<MISSING>,18458,18458,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224650,Ectopy Type 1,<MISSING>,16453,16453,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220181,Non Invasive Blood Pressure mean,mmHg,13874,13874,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220179,Non Invasive Blood Pressure systolic,mmHg,13873,13873,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220180,Non Invasive Blood Pressure diastolic,mmHg,13871,13871,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227958,Less Restrictive Measures,<MISSING>,9900,9900,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229381,Orientation,<MISSING>,9296,9296,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224082,Turn,<MISSING>,8097,8097,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224080,Head of Bed,<MISSING>,8034,8034,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224086,Activity Tolerance,<MISSING>,7664,7664,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224093,Position,<MISSING>,7561,7561,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228905,Altered Respiratory Status NCP - Interventions,<MISSING>,7180,7180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228928,Impaired Tissue Perfusion NCP - Interventions,<MISSING>,6977,6977,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223792,Pain Management,<MISSING>,6522,6522,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220052,Arterial Blood Pressure mean,mmHg,6231,6231,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220051,Arterial Blood Pressure diastolic,mmHg,6206,6206,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220050,Arterial Blood Pressure systolic,mmHg,6205,6205,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224642,Temperature Site,<MISSING>,5661,5661,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228868,Assistance,<MISSING>,5402,5402,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224073,Education Topic,<MISSING>,5287,5287,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228988,Safety Restraints NCP - Interventions,<MISSING>,5260,5260,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220739,GCS - Eye Opening,<MISSING>,5174,5174,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223900,GCS - Verbal Response,<MISSING>,5173,5173,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223901,GCS - Motor Response,<MISSING>,5152,5152,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223761,Temperature Fahrenheit,°F,5007,5007,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226732,O2 Delivery Device(s),<MISSING>,4990,4990,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223781,Pain Present,<MISSING>,4923,4923,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227944,Side Rails,<MISSING>,4855,4855,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224641,Alarms On,<MISSING>,4714,4714,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229321,Activity / Mobility (JH-HLM),<MISSING>,4661,4661,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224168,Parameters Checked,<MISSING>,4635,4635,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228924,Impaired Tissue Perfusion NCP - Expected outcomes,<MISSING>,4627,4627,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224089,Anti Embolic Device,<MISSING>,4546,4546,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223987,RLL Lung Sounds,<MISSING>,4518,4518,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223989,LLL Lung Sounds,<MISSING>,4494,4494,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223986,RUL Lung Sounds,<MISSING>,4473,4473,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223988,LUL Lung Sounds,<MISSING>,4467,4467,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224003,Abdominal Assessment,<MISSING>,4450,4450,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224088,Pressure Reducing Device,<MISSING>,4231,4231,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228947,Infection NCP - Interventions,<MISSING>,4200,4200,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224001,Diet Type,<MISSING>,4058,4058,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228096,Richmond-RAS Scale,<MISSING>,4049,4049,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225054,Anti Embolic Device Status,<MISSING>,3997,3997,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223907,Pupil Size Right,<MISSING>,3831,3831,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223783,Pain Location,<MISSING>,3812,3812,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224733,Pupil Size Left,<MISSING>,3810,3810,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228898,Impaired Fluid Balance NCP - Interventions,<MISSING>,3799,3799,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227121,Pupil Response Right,<MISSING>,3796,3796,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227288,Pupil Response Left,<MISSING>,3765,3765,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223795,Pain Assessment Method,<MISSING>,3729,3729,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223999,Oral Cavity,<MISSING>,3657,3657,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224015,Urine Source,<MISSING>,3646,3646,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224087,Therapeutic Bed,<MISSING>,3514,3514,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228977,Altered Mental Status  NCP - Interventions,<MISSING>,3435,3435,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224004,Bowel Sounds,<MISSING>,3363,3363,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223934,Dorsal PedPulse R,<MISSING>,3316,3316,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224084,Activity,<MISSING>,3311,3311,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223943,Dorsal PedPulse L,<MISSING>,3289,3289,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228299,Goal Richmond-RAS Scale,<MISSING>,3255,3255,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228957,Coping/Knowledge Deficit  NCP - Interventions,<MISSING>,3197,3197,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228305,ST Segment Monitoring On,<MISSING>,3157,3157,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224031,Edema Location,<MISSING>,3101,3101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228397,Commands Response,<MISSING>,3101,3101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223991,Cough Effort,<MISSING>,3093,3093,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228412,Strength R Arm,<MISSING>,3089,3089,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228409,Strength L Arm,<MISSING>,3088,3088,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226168,Oral Care,<MISSING>,3088,3088,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228410,Strength L Leg,<MISSING>,3084,3084,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228411,Strength R Leg,<MISSING>,3075,3075,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224026,Skin Integrity,<MISSING>,3046,3046,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224016,Urine Color,<MISSING>,3033,3033,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227947,Reason for Restraint (Non-violent),<MISSING>,2999,2999,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228414,Speech,<MISSING>,2988,2988,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224027,Skin Temperature,<MISSING>,2988,2988,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228398,Commands,<MISSING>,2980,2980,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224860,Skin Condition,<MISSING>,2945,2945,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224028,Skin Color,<MISSING>,2941,2941,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224876,Urine Appearance,<MISSING>,2886,2886,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223794,Pain Level Acceptable,<MISSING>,2837,2837,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223791,Pain Level,<MISSING>,2801,2801,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223784,Pain Cause,<MISSING>,2744,2744,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228902,Altered Respiratory Status NCP - Expected outcomes,<MISSING>,2717,2717,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227954,Status and Comfort,<MISSING>,2680,2680,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227955,Food and Fluid,<MISSING>,2669,2669,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223835,Inspired O2 Fraction,<MISSING>,2625,2625,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224771,RLE Temp,<MISSING>,2602,2602,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224773,LLE Temp,<MISSING>,2593,2593,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224767,RUE Temp,<MISSING>,2582,2582,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223979,RLE Color,<MISSING>,2579,2579,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224769,LUE Temp,<MISSING>,2572,2572,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223983,LLE Color,<MISSING>,2567,2567,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223976,RUE Color,<MISSING>,2565,2565,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224054,Braden Sensory Perception,<MISSING>,2560,2560,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224055,Braden Moisture,<MISSING>,2557,2557,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223982,LUE Color,<MISSING>,2557,2557,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224057,Braden Mobility,<MISSING>,2554,2554,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224056,Braden Activity,<MISSING>,2553,2553,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224058,Braden Nutrition,<MISSING>,2550,2550,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228890,Pain NCP - Interventions,<MISSING>,2550,2550,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224059,Braden Friction/Shear,<MISSING>,2549,2549,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223935,PostTib. Pulses R,<MISSING>,2535,2535,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223782,Pain Type,<MISSING>,2521,2521,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228937,Post-op Care NCP - Interventions,<MISSING>,2513,2513,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223947,PostTib. Pulses L,<MISSING>,2498,2498,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223992,Cough Type,<MISSING>,2446,2446,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224651,Ectopy Frequency 1,<MISSING>,2437,2437,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227948,Restraint Device (Non-violent),<MISSING>,2428,2428,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228298,Daily Wake Up,<MISSING>,2400,2400,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224000,Nares R,<MISSING>,2366,2366,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227945,Restraint (Non-violent),<MISSING>,2339,2339,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224879,Nares L,<MISSING>,2327,2327,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224017,GU Catheter Size,<MISSING>,2282,2282,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224032,Impaired Skin Site #1,<MISSING>,2274,2274,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227950,Restraint Location,<MISSING>,2260,2260,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224023,Support Systems,<MISSING>,2233,2233,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228399,Facial Droop,<MISSING>,2188,2188,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223951,Capillary Refill R,<MISSING>,2164,2164,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227959,Restraints Evaluated,<MISSING>,2160,2160,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224308,Capillary Refill L,<MISSING>,2129,2129,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227951,Circulation/Skin Integrity,<MISSING>,2127,2127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227952,Position Change,<MISSING>,2121,2121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227960,Patient/Family Informed,<MISSING>,2113,2113,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227953,Range of Motion,<MISSING>,2111,2111,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227957,Signs of Injury from Intervention,<MISSING>,2109,2109,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227961,Side  Rails,<MISSING>,2079,2079,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227956,Urinal/Bedpan,<MISSING>,2077,2077,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220046,Heart rate Alarm - High,bpm,2048,2048,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225664,Glucose finger stick (range 70-100),<MISSING>,2042,2042,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220047,Heart Rate Alarm - Low,bpm,2040,2040,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223770,O2 Saturation Pulseoxymetry Alarm - Low,%,2034,2034,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223769,O2 Saturation Pulseoxymetry Alarm - High,%,2027,2027,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224024,Family Communication,<MISSING>,2021,2021,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227946,Restraint Ordered (Non-violent),<MISSING>,2019,2019,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229322,Breathing pattern/effort,<MISSING>,2007,2007,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220339,PEEP set,cmH2O,2000,2000,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224161,Resp Alarm - High,insp/min,1993,1993,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224162,Resp Alarm - Low,insp/min,1989,1989,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226253,SpO2 Desat Limit,%,1976,1976,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228933,Post-op Care NCP - Expected outcomes,<MISSING>,1973,1973,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227341,History of falling (within 3 mnths),<MISSING>,1965,1965,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227342,Secondary diagnosis,<MISSING>,1960,1960,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227343,Ambulatory aid,<MISSING>,1957,1957,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227344,IV/Saline lock,<MISSING>,1955,1955,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227968,All Medications Tolerated without Adverse Side Effects,<MISSING>,1948,1948,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227345,Gait/Transferring,<MISSING>,1948,1948,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227346,Mental status,<MISSING>,1944,1944,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223936,Radial Pulse R,<MISSING>,1941,1941,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224930,Impaired Skin Site #2,<MISSING>,1935,1935,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224687,Minute Volume,L/min,1910,1910,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223834,O2 Flow,L/min,1907,1907,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224697,Mean Airway Pressure,cmH2O,1887,1887,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223948,Radial Pulse L,<MISSING>,1883,1883,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228973,Altered Mental Status  NCP - Expected outcomes,<MISSING>,1874,1874,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224689,Respiratory Rate (spontaneous),insp/min,1853,1853,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223848,Ventilator Type,<MISSING>,1850,1850,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220292,Minute Volume Alarm - Low,L/min,1847,1847,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220293,Minute Volume Alarm - High,L/min,1839,1839,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224685,Tidal Volume (observed),mL,1838,1838,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223873,Paw High,cmH2O,1835,1835,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227517,Humidification,<MISSING>,1834,1834,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224785,GI #1 Tube Type,<MISSING>,1831,1831,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224695,Peak Insp. Pressure,cmH2O,1829,1829,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223876,Apnea Interval,sec,1828,1828,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228914,Altered Skin Integrity NCP - Interventions,<MISSING>,1819,1819,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224076,Education Barrier,<MISSING>,1782,1782,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223874,Vti High,mL,1782,1782,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224007,GI #1 Intub Site,<MISSING>,1782,1782,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223985,Respiratory Pattern,<MISSING>,1767,1767,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224690,Respiratory Rate (Total),insp/min,1754,1754,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224692,Flow Pattern,<MISSING>,1753,1753,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223990,Respiratory Effort,<MISSING>,1748,1748,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223875,Fspn High,insp/min,1743,1743,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224865,Flow Sensitivity,<MISSING>,1741,1741,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224786,GI #1 Tube Status,<MISSING>,1726,1726,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225978,Slope,<MISSING>,1703,1703,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228894,Impaired Fluid Balance NCP - Expected outcomes,<MISSING>,1674,1674,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224735,Flow Rate (variable/fixed),<MISSING>,1669,1669,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224409,Pain Level Response,<MISSING>,1663,1663,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227368,20 Gauge Dressing Occlusive,<MISSING>,1662,1662,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226138,20 Gauge placed in outside facility,<MISSING>,1657,1657,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224077,Education Method,<MISSING>,1648,1648,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223796,Untoward Effect,<MISSING>,1644,1644,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224862,Edema Amount,<MISSING>,1629,1629,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223752,Non-Invasive Blood Pressure Alarm - Low,mmHg,1618,1618,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223751,Non-Invasive Blood Pressure Alarm - High,mmHg,1615,1615,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220001,Problem List,<MISSING>,1615,1615,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223905,Cough Reflex,<MISSING>,1604,1604,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227240,NBP Alarm Source,<MISSING>,1601,1601,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220074,Central Venous Pressure,mmHg,1591,1591,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223904,Gag Reflex,<MISSING>,1588,1588,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224072,Education Learner,<MISSING>,1535,1535,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224079,Education Response,<MISSING>,1516,1516,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229858,Therapeutic Bed,<MISSING>,1516,1516,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228100,20 Gauge placed in the field,<MISSING>,1494,1494,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223872,Inspired Gas Temp.,°C,1457,1457,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228332,Delirium assessment,<MISSING>,1421,1421,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227442,Potassium (serum),mEq/L,1402,1402,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220645,Sodium (serum),mEq/L,1392,1393,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220602,Chloride (serum),mEq/L,1376,1376,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220228,Hemoglobin,g/dl,1360,1360,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228953,Coping/Knowledge Deficit  NCP - Expected outcomes,<MISSING>,1356,1356,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223849,Ventilator Mode,<MISSING>,1345,1345,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220545,Hematocrit (serum),%,1341,1341,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228997,Discharge NCP - Interventions,<MISSING>,1337,1337,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220615,Creatinine (serum),mg/dL,1332,1332,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224373,Sputum Amount,<MISSING>,1330,1330,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225624,BUN,mg/dL,1327,1327,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227443,HCO3 (serum),mEq/L,1326,1326,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227073,Anion gap,mEq/L,1324,1324,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224085,Assistance Device,<MISSING>,1322,1322,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224372,Sputum Source,<MISSING>,1319,1319,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226104,Level of Consciousness,<MISSING>,1302,1302,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223837,ETT Size (ID),<MISSING>,1300,1300,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220635,Magnesium,mg/dL,1296,1296,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223838,ETT Location,<MISSING>,1295,1295,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220621,Glucose (serum),mg/dL,1295,1304,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223898,Orientation,<MISSING>,1293,1293,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224415,ETT Mark (cm),<MISSING>,1290,1290,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224832,ETT Type,<MISSING>,1290,1290,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226169,Subglottal Suctioning,<MISSING>,1260,1260,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228943,Infection NCP - Expected outcomes,<MISSING>,1260,1260,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224281,Multi Lumen Site Appear,<MISSING>,1245,1245,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224005,Flatus,<MISSING>,1244,1244,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225677,Phosphorous,mg/dL,1243,1243,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229687,Pain Assessment Method,<MISSING>,1241,1241,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223902,Speech,<MISSING>,1240,1240,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227457,Platelet Count,K/uL,1238,1238,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225625,Calcium non-ionized,mg/dL,1237,1237,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220546,WBC,K/uL,1225,1225,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228013,20 G Phlebitis Scale,<MISSING>,1224,1224,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228306,Assistance Device,<MISSING>,1220,1220,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228014,20 G Infiltration Scale,<MISSING>,1216,1216,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226113,Multi Lumen placed in outside facility,<MISSING>,1205,1205,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229354,Foley Cath Insertion Location,<MISSING>,1193,1193,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224289,Arterial line Site Appear,<MISSING>,1187,1187,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224370,Sputum Color,<MISSING>,1185,1185,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223911,Spontaneous Movement,<MISSING>,1180,1180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223916,Response to Stimuli (Type),<MISSING>,1151,1151,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224369,Sputum Consistency,<MISSING>,1141,1141,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228400,Visual Field Cut,<MISSING>,1134,1134,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228307,GI #1 Tube Place Check,<MISSING>,1127,1127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224756,Response,<MISSING>,1126,1126,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227756,Multi Lumen Placement Confirmed by X-ray,<MISSING>,1125,1125,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226107,Arterial Line placed in outside facility,<MISSING>,1121,1121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223918,RL Strength/Movement,<MISSING>,1106,1106,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223917,RU Strength/Movement,<MISSING>,1105,1105,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223919,LU Strength/Movement,<MISSING>,1105,1105,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224291,Arterial line Waveform Appear,<MISSING>,1104,1104,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223920,LL Strength/Movement,<MISSING>,1103,1103,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224686,Tidal Volume (spontaneous),mL,1101,1101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228393,Bath,<MISSING>,1094,1094,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227949,Face to Face Eval (Non-violent),<MISSING>,1069,1069,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224794,Stool Color,<MISSING>,1068,1068,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224038,Impaired Skin Treatment #1,<MISSING>,1064,1064,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226814,Known difficult intubation,<MISSING>,1048,1048,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224011,Stool Consistency,<MISSING>,1047,1047,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229384,Tongue,<MISSING>,1038,1038,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224688,Respiratory Rate (Set),insp/min,1031,1031,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224738,Inspiratory Time,sec,1026,1026,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224684,Tidal Volume (set),mL,1023,1023,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226137,18 Gauge placed in outside facility,<MISSING>,1008,1008,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227367,18 Gauge Dressing Occlusive,<MISSING>,1003,1003,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228983,Safety Restraints NCP - Expected outcomes,<MISSING>,995,995,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224565,Surrounding Tissue #1,<MISSING>,994,994,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224701,PSV Level,cmH2O,994,994,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229323,Current Dyspnea Assessment,<MISSING>,980,980,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224188,PICC Line Site Appear,<MISSING>,958,958,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227466,PTT,sec,935,935,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228401,Pronator Drift,<MISSING>,928,928,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224564,Impaired Skin Odor #1,<MISSING>,918,918,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224226,Impaired Skin Wound Base #1,<MISSING>,914,914,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229326,CAM-ICU MS Change,<MISSING>,908,908,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228394,Orientation to Person,<MISSING>,906,906,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228879,Education Readiness/Motivation,<MISSING>,890,890,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228880,Education Existing Knowledge,<MISSING>,882,882,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224259,Impaired Skin Drainage #1,<MISSING>,877,877,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225184,Eye Care,<MISSING>,859,859,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228395,Orientation to Place,<MISSING>,856,856,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227465,Prothrombin time,sec,851,851,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227467,INR,<MISSING>,851,851,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229245,Humidifier Water % Fill Level,<MISSING>,839,839,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228396,Orientation to Time,<MISSING>,838,838,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228099,18 Gauge placed in the field,<MISSING>,834,834,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229369,Acuity Workload Question 1,<MISSING>,833,833,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229370,Acuity Workload Question 2,<MISSING>,832,832,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229244,Humidifier Water Changed,<MISSING>,828,828,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226115,PICC Line placed in outside facility,<MISSING>,824,824,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229383,Extraocular Movements,<MISSING>,821,821,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224012,Stool Management,<MISSING>,813,813,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224040,Incision Closure #1,<MISSING>,813,813,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227759,PICC Line Placement Confirmed by X-ray,<MISSING>,811,811,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224848,Incision Appearance #1,<MISSING>,777,777,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229385,Shoulder Shrug,<MISSING>,776,776,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228911,Altered Skin Integrity NCP - Expected outcomes,<MISSING>,757,757,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228496,Impaired Skin #1- Location,<MISSING>,756,756,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227293,Multi Lumen Dressing Occlusive,<MISSING>,753,753,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224561,Impaired Skin Type #1,<MISSING>,750,750,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227349,High risk (>51) interventions,<MISSING>,750,750,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225185,Skin Care,<MISSING>,737,737,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227358,PICC Line Dressing Occlusive,<MISSING>,734,734,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223830,PH (Arterial),units,734,735,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224937,Impaired Skin Treatment #2,<MISSING>,734,734,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227292,Arterial Line Dressing Occlusive,<MISSING>,734,734,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224829,Trach Tube Type,<MISSING>,731,731,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229689,CPOT-Pain Assessment Method,<MISSING>,724,724,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224847,Impaired Skin Drainage Amount #1,<MISSING>,718,718,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220224,Arterial O2 pressure,mmHg,712,712,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220235,Arterial CO2 Pressure,mmHg,712,712,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224828,Arterial Base Excess,mEq/L,712,712,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225698,TCO2 (calc) Arterial,mEq/L,712,712,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223762,Temperature Celsius,°C,705,705,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228404,Motor L Arm,<MISSING>,701,701,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228405,Motor L Leg,<MISSING>,701,701,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228406,Motor R Arm,<MISSING>,701,701,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228407,Motor R Leg,<MISSING>,701,701,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228993,Discharge NCP - Expected outcomes,<MISSING>,684,684,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225187,Back Care,<MISSING>,680,680,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229314,Ventilator Mode (Hamilton),<MISSING>,670,670,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224283,Multi Lumen Waveform Appear,<MISSING>,664,664,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224696,Plateau Pressure,cmH2O,658,658,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224938,Impaired Skin Treatment #3,<MISSING>,630,630,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229652,Stroke NCP - Interventions,<MISSING>,619,619,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224075,Education Readiness,<MISSING>,615,615,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228308,GI #1 Tube Place Method,<MISSING>,608,608,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224691,Flow Rate (L/min),L/min,603,603,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228559,Incision #1- Location,<MISSING>,597,597,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229091,Altered Respiratory Status NCP - Problem resolved,<MISSING>,595,595,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224037,Impaired Skin Cleanse #1,<MISSING>,592,592,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228011,18 G Phlebitis Scale,<MISSING>,584,584,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224931,Impaired Skin Site #3,<MISSING>,583,583,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220059,Pulmonary Artery Pressure systolic,mmHg,581,581,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228012,18 G Infiltration Scale,<MISSING>,580,580,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220060,Pulmonary Artery Pressure diastolic,mmHg,579,579,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227565,Ventilator Tank #1,<MISSING>,578,578,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229126,Altered Sensory Perception NCP - Interventions,<MISSING>,578,578,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229101,Impaired Tissue Perfusion NCP - Problem resolved,<MISSING>,576,576,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227566,Ventilator Tank #2,<MISSING>,573,573,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224830,Trach Tube Manufacturer,<MISSING>,571,571,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225668,Lactic Acid,mmol/L,569,569,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224831,Trach Tube Size (I.D.),<MISSING>,568,568,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226871,Expiratory Ratio,<MISSING>,564,564,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226873,Inspiratory Ratio,<MISSING>,564,564,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224009,GI #1 Tube Drainage,<MISSING>,560,560,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220061,Pulmonary Artery Pressure mean,mmHg,557,557,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227375,Daily Wake Up,<MISSING>,544,544,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229894,NPT 30 mattress pump in use,<MISSING>,544,544,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224944,Impaired Skin Type #2,<MISSING>,543,543,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220058,Arterial Blood Pressure Alarm - High,mmHg,543,543,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220056,Arterial Blood Pressure Alarm - Low,mmHg,541,541,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224972,Surrounding Tissue #2,<MISSING>,539,539,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227239,ABP Alarm Source,<MISSING>,538,538,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224700,Total PEEP Level,cmH2O,520,520,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228416,Corneal Reflex Right,<MISSING>,519,519,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228415,Corneal Reflex Left,<MISSING>,517,517,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225811,CV - past medical history,<MISSING>,512,512,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227780,Impaired Skin  - Dressing Status #1,<MISSING>,508,508,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225188,Cough/Deep Breath,<MISSING>,506,506,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224041,Incision Drainage #1,<MISSING>,506,506,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223780,Daily Wake Up Deferred,<MISSING>,494,494,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229604,Therapeutic Bed,<MISSING>,493,493,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228571,Incision #1- Treatment,<MISSING>,489,489,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225210,Arterial Line Zero/Calibrate,<MISSING>,488,488,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224902,Impaired Skin Drainage #2,<MISSING>,486,486,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228966,Nutrition  NCP - Interventions,<MISSING>,482,482,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229103,Infection NCP - Problem resolved,<MISSING>,471,471,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225667,Ionized Calcium,mmol/L,470,470,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224973,Surrounding Tissue #3,<MISSING>,468,468,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224562,Impaired Skin Length #1,cm,464,464,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224846,Impaired Skin Width #1,cm,464,464,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229300,GI #1 Tube Mark (CM),cm,463,463,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226139,22 Gauge placed in outside facility,<MISSING>,461,461,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223968,Angio Appearance # 1,<MISSING>,460,460,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224639,Daily Weight,kg,460,460,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224903,Impaired Skin Drainage #3,<MISSING>,459,459,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224888,Impaired Skin Cleanse #2,<MISSING>,457,457,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229535,Line Type,<MISSING>,457,457,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227369,22 Gauge Dressing Occlusive,<MISSING>,456,456,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224391,ETT Mark (location),<MISSING>,453,453,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228101,22 Gauge placed in the field,<MISSING>,444,444,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224923,Impaired Skin Odor #2,<MISSING>,442,442,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229644,Stroke NCP - Expected outcomes,<MISSING>,438,438,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225312,ART BP Mean,mmHg,437,437,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229138,Substance withdrawal NCP - Interventions,<MISSING>,436,436,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228594,Incision #1- Dressing Status,<MISSING>,436,436,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225309,ART BP Systolic,mmHg,436,436,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225310,ART BP Diastolic,mmHg,436,436,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223753,Riker-SAS Scale,<MISSING>,432,432,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224945,Impaired Skin Type #3,<MISSING>,431,431,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223967,Angio Site # 1,<MISSING>,411,411,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229089,Altered Mental Status  NCP - Problem resolved,<MISSING>,410,410,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224417,Cuff Pressure,cmH2O,392,392,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229111,Safety Restraints NCP - Problem resolved,<MISSING>,392,392,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224941,Impaired Skin Treatment #6,<MISSING>,391,391,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224146,System Integrity,<MISSING>,391,391,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228337,CAM-ICU MS Change,<MISSING>,389,389,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224958,Impaired Skin Wound Base #2,<MISSING>,389,389,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229977,COVID NCP - Interventions,<MISSING>,387,387,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225234,18 Gauge Site Appear,<MISSING>,386,386,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223970,Angio Dressing # 1,<MISSING>,386,386,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224924,Impaired Skin Odor #3,<MISSING>,378,378,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224092,Range of Motion Location,<MISSING>,378,378,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225176,Range of Motion Status,<MISSING>,377,377,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229703,CPOT-Pain Management,<MISSING>,377,377,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224910,Impaired Skin Drainage Amount #3,<MISSING>,376,376,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224889,Impaired Skin Cleanse #3,<MISSING>,374,374,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224632,Tunneling Present #1,<MISSING>,372,372,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224758,RUE Sensation,<MISSING>,372,372,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224759,LUE Sensation,<MISSING>,371,371,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229107,Pain NCP - Problem resolved,<MISSING>,370,370,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224730,Corneal Reflex Right,<MISSING>,369,369,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223993,Chest Tube Site # 1,<MISSING>,368,368,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224806,CT #1 Suction Type,<MISSING>,367,367,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228334,CAM-ICU Altered LOC,<MISSING>,364,364,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223924,RLE Sensation,<MISSING>,364,364,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229975,COVID NCP - Expected outcomes,<MISSING>,364,364,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228015,22 G Phlebitis Scale,<MISSING>,363,363,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224731,Corneal Reflex Left,<MISSING>,363,363,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229325,CAM-ICU Inattention,<MISSING>,362,362,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228016,22 G Infiltration Scale,<MISSING>,360,360,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224762,LLE Sensation,<MISSING>,360,360,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224909,Impaired Skin Drainage Amount #2,<MISSING>,360,360,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228236,Insulin pump,<MISSING>,352,352,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223997,CT #1 Dressing,<MISSING>,352,352,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228402,Neurological Symptoms,<MISSING>,352,352,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225690,Total Bilirubin,mg/dL,350,350,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223996,CT #1 Drainage,<MISSING>,347,347,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224796,Ostomy,<MISSING>,347,347,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229099,Impaired Fluid Balance NCP - Problem resolved,<MISSING>,346,346,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228560,Incision #2- Location,<MISSING>,344,344,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224933,Impaired Skin Site #5,<MISSING>,342,342,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220587,AST,IU/L,341,341,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220644,ALT,IU/L,341,341,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225612,Alkaline Phosphate,IU/L,341,341,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225103,Intravenous  / IV access prior to admission,<MISSING>,340,340,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225004,Incision Closure #2,<MISSING>,340,340,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223994,CT #1 Suction Amount,<MISSING>,339,339,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224959,Impaired Skin Wound Base #3,<MISSING>,339,339,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224939,Impaired Skin Treatment #4,<MISSING>,333,333,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226531,Admission Weight (lbs.),<MISSING>,330,330,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224149,Access Pressure,mmHg,328,328,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224150,Filter Pressure,mmHg,328,328,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224152,Return Pressure,mmHg,328,328,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229248,Pressure Drop,mmHg,328,328,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229247,Trans Membrane Pressure,mmHg,327,327,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224151,Effluent Pressure,mmHg,326,326,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226457,Ultrafiltrate Output,mL,322,322,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223998,CT #1 Crepitus,<MISSING>,321,321,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224631,Pressure Ulcer Stage #1,<MISSING>,320,320,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225072,Living situation,<MISSING>,320,320,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229109,Post-op Care NCP - Problem resolved,<MISSING>,318,318,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224993,Incision Appearance #2,<MISSING>,318,318,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225135,Consults,<MISSING>,317,317,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224940,Impaired Skin Treatment #5,<MISSING>,317,317,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228004,Citrate (ACD-A),ml/hr,315,315,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224144,Blood Flow (ml/min),ml/min,314,314,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225183,Current Goal,mL,314,314,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224154,Dialysate Rate,ml/hr,313,313,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228005,PBP (Prefilter) Replacement Rate,ml/hr,313,313,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228006,Post Filter Replacement Rate,ml/hr,313,313,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224775,CT #1 Leak,<MISSING>,312,312,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229691,CPOT-Muscle Tension (CPOTb),<MISSING>,311,311,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229696,CPOT-Body Movements (CPOTb),<MISSING>,311,311,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229698,CPOT-Facial Expression (CPOTb),<MISSING>,311,311,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225231,20 Gauge Site Appear,<MISSING>,310,310,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223995,CT #1 Fluctuate,<MISSING>,310,310,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229695,CPOT-Vocalization (CPOTb),<MISSING>,310,310,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228529,Impaired Skin #1- Treatment,<MISSING>,310,310,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228516,Impaired Skin #1- Type,<MISSING>,307,307,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224153,Replacement Rate,ml/hr,307,307,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224932,Impaired Skin Site #4,<MISSING>,306,306,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224191,Hourly Patient Fluid Removal,mL,305,305,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225189,Incentive Spirometry,<MISSING>,304,304,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225323,Dialysis Catheter Site Appear,<MISSING>,304,304,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226118,Dialysis Catheter placed in outside facility,<MISSING>,299,299,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228497,Impaired Skin #2- Location,<MISSING>,298,298,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225092,Self ADL,<MISSING>,297,297,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228640,EtCO2,<MISSING>,297,297,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229095,Coping/Knowledge Deficit  NCP - Problem resolved,<MISSING>,295,295,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225097,Balance,<MISSING>,291,291,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228648,Home TF,<MISSING>,287,287,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225094,History of slips / falls,<MISSING>,286,286,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229347,Impaired Mobility  NCP - Interventions,<MISSING>,285,285,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225099,Judgement,<MISSING>,284,284,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228649,Pressure Ulcer Present,<MISSING>,281,281,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224850,Incision Drainage Amount #1,<MISSING>,281,281,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226537,Glucose (whole blood),mg/dL,280,316,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227753,Dialysis Catheter Placement Confirmed by X-ray,<MISSING>,276,276,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225106,ETOH,<MISSING>,273,273,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225126,Dialysis patient,<MISSING>,272,272,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225059,Past medical history,<MISSING>,271,271,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224946,Impaired Skin Type #4,<MISSING>,271,271,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225976,Replacement Fluid,<MISSING>,266,266,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225977,Dialysate Fluid,<MISSING>,266,266,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227464,Potassium (whole blood),mEq/L,265,265,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225118,Difficulty swallowing,<MISSING>,263,263,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227687,Tobacco Use History,<MISSING>,257,257,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227781,Impaired Skin  - Dressing Status #2,<MISSING>,257,257,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224979,Tunneling Present #2,<MISSING>,257,257,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224170,MDI #1 Drug,<MISSING>,256,256,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229090,Altered Respiratory Status NCP - Plan revised,<MISSING>,254,254,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229662,Pminimum,<MISSING>,254,254,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229660,RCexp (Measured Time Constant),sec,253,253,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229663,Pinsp (Hamilton),cmH2O,253,253,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229661,Compliance,cmH2O/L/seconds,252,252,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225113,Currently experiencing pain,<MISSING>,251,251,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229664,Resistance Exp,cmH2O/L/seconds,251,251,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229665,Resistance Insp,cmH2O/L/seconds,251,251,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225087,Visual / hearing deficit,<MISSING>,250,250,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225120,Appetite,<MISSING>,250,250,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225110,Recreational drug use,<MISSING>,249,249,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223955,Temporary Pacemaker Type,<MISSING>,248,248,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225124,Unintentional weight loss >10 lbs.,<MISSING>,247,247,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226105,Behavior,<MISSING>,247,247,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229974,COVID NCP - Problem,<MISSING>,247,247,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223956,Temporary Pacemaker Mode,<MISSING>,243,243,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223923,Seizure Activity,<MISSING>,242,242,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225101,Use of assistive devices,<MISSING>,241,241,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224904,Impaired Skin Drainage #4,<MISSING>,241,241,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229097,Discharge NCP - Problem resolved,<MISSING>,240,240,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224947,Impaired Skin Type #5,<MISSING>,240,240,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226180,Sexuality / reproductive problems,<MISSING>,239,239,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224961,Impaired Skin Wound Base #5,<MISSING>,239,239,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224905,Impaired Skin Drainage #5,<MISSING>,238,238,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225122,Special diet,<MISSING>,237,237,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224640,Service,<MISSING>,237,237,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229100,Impaired Tissue Perfusion NCP - Plan revised,<MISSING>,237,237,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224751,Temporary Pacemaker Rate,bpm,234,234,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223961,Temporary Pacemaker Wire Condition,<MISSING>,230,230,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228853,Impaired Skin #1- Type,<MISSING>,228,228,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224145,Heparin Dose (per hour),units,228,228,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224633,Undermining Present #1,<MISSING>,226,226,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224106,Cooling Device,<MISSING>,226,226,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220245,CO2 production,ml/min,224,224,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224962,Impaired Skin Wound Base #6,<MISSING>,224,224,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224404,ART Lumen Volume,mL,221,221,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224406,VEN Lumen Volume,mL,221,221,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225074,Any fear in relationships,<MISSING>,218,218,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225131,Teaching directed toward,<MISSING>,216,216,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225050,Warming Device Status,<MISSING>,216,216,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227782,Impaired Skin  - Dressing Status #3,<MISSING>,215,215,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228888,Pain NCP - Expected outcomes,<MISSING>,214,214,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229882,CVL Biopatch,<MISSING>,210,210,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228572,Incision #2- Treatment,<MISSING>,207,207,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227290,CRRT mode,<MISSING>,207,207,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225078,Social work consult,<MISSING>,206,206,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229136,Substance withdrawal NCP - Expected outcomes,<MISSING>,206,206,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224942,Impaired Skin Treatment #7,<MISSING>,206,206,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223754,Risk for Falls,<MISSING>,205,205,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220274,PH (Venous),units,205,206,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224974,Surrounding Tissue #4,<MISSING>,205,205,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227784,Impaired Skin  - Dressing Status #5,<MISSING>,204,204,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224976,Surrounding Tissue #6,<MISSING>,204,204,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229600,CAUTI Info Given,<MISSING>,204,204,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223910,Follows Commands,<MISSING>,203,203,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224965,Pressure Ulcer Stage #2,<MISSING>,202,202,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225067,Is the spokesperson the Health Care Proxy,<MISSING>,202,202,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228600,Impaired Skin #1- Dressing Status,<MISSING>,201,201,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224563,Impaired Skin Depth #1,cm,201,201,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220632,LDH,IU/L,199,199,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228297,Daily Wake Up Deferred,<MISSING>,199,199,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229102,Infection NCP - Plan revised,<MISSING>,199,199,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229536,Dialysis Catheter Type,<MISSING>,199,199,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223903,Communication,<MISSING>,198,198,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224105,Warming Device,<MISSING>,198,198,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224890,Impaired Skin Cleanse #4,<MISSING>,197,197,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224966,Pressure Ulcer Stage #3,<MISSING>,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224917,Impaired Skin Length #3,cm,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224934,Impaired Skin Site #6,<MISSING>,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224948,Impaired Skin Type #6,<MISSING>,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224926,Impaired Skin Odor #5,<MISSING>,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224109,Cervical Collar Type,<MISSING>,196,196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224892,Impaired Skin Cleanse #6,<MISSING>,195,195,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227785,Impaired Skin  - Dressing Status #6,<MISSING>,195,195,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223758,Code Status,<MISSING>,194,194,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227570,Small Volume Neb Drug/Dose #1,<MISSING>,194,194,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224797,Ostomy Appearance,<MISSING>,194,194,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224911,Impaired Skin Drainage Amount #4,<MISSING>,194,194,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224975,Surrounding Tissue #5,<MISSING>,193,193,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224912,Impaired Skin Drainage Amount #5,<MISSING>,192,192,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224920,Impaired Skin Length #6,cm,192,192,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224955,Impaired Skin Width #6,cm,192,192,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229145,Metabolic disturbance NCP - Interventions,<MISSING>,190,190,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226512,Admission Weight (Kg),kg,189,189,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229386,Cerebellar - Finger -> Nose,<MISSING>,189,189,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223962,Temporary Pacemaker Wires Venticular,<MISSING>,187,187,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225076,Emotional / physical / sexual harm by partner or close relation,<MISSING>,185,185,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227988,Pronator drift present,<MISSING>,185,185,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226136,16 Gauge placed in outside facility,<MISSING>,184,184,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224891,Impaired Skin Cleanse #5,<MISSING>,183,183,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225013,Incision Drainage #2,<MISSING>,181,181,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228595,Incision #2- Dressing Status,<MISSING>,181,181,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223972,Angio Appearance # 2,<MISSING>,180,180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224839,Temporary Pacemaker Wires Atrial,<MISSING>,180,180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225052,Cooling Device Status,<MISSING>,180,180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224899,Impaired Skin Depth #6,cm,180,180,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227366,16 Gauge Dressing Occlusive,<MISSING>,179,179,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228498,Impaired Skin #3- Location,<MISSING>,179,179,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224906,Impaired Skin Drainage #6,<MISSING>,179,179,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224927,Impaired Skin Odor #6,<MISSING>,179,179,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224916,Impaired Skin Length #2,cm,177,177,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224110,Cervical Collar Status,<MISSING>,175,175,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227350,Cordis/Introducer Dressing Occlusive,<MISSING>,174,174,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227472,Incision Site #1,<MISSING>,174,174,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229088,Altered Mental Status  NCP - Plan revised,<MISSING>,174,174,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224297,Cordis/Introducer Site Appear,<MISSING>,172,172,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220227,Arterial O2 Saturation,%,172,172,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224169,MDI #1 Puff,<MISSING>,172,172,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228743,Pressure ulcer #1- Surrounding tissue,<MISSING>,171,171,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224441,GI #2 Intub Site,<MISSING>,170,170,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223971,Angio Site # 2,<MISSING>,169,169,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224913,Impaired Skin Drainage Amount #6,<MISSING>,169,169,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224788,GI #2 Tube Type,<MISSING>,168,168,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226109,Cordis/Introducer placed in outside facility,<MISSING>,168,168,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228962,Nutrition  NCP - Expected outcomes,<MISSING>,167,167,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224960,Impaired Skin Wound Base #4,<MISSING>,166,166,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224952,Impaired Skin Width #3,cm,166,166,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224789,GI #2 Tube Status,<MISSING>,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225639,Differential-Basos,%,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225640,Differential-Eos,%,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225641,Differential-Lymphs,%,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225642,Differential-Monos,%,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225643,Differential-Neuts,%,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226062,Venous CO2 Pressure,mmHg,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226063,Venous O2 Pressure,mmHg,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227783,Impaired Skin - Dressing Status  #4,<MISSING>,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229134,Elimination NCP - Interventions,<MISSING>,164,164,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229344,Impaired Mobility NCP - Expected outcomes,<MISSING>,164,164,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223679,TCO2 (calc) Venous,mEq/L,164,165,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228098,16 Gauge placed in the field,<MISSING>,163,163,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223973,Angio Dressing # 2,<MISSING>,162,162,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224943,Impaired Skin Treatment #8,<MISSING>,162,162,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225313,Bed Bath,<MISSING>,161,161,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224010,GI #1 Tube Place Check,<MISSING>,161,161,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224851,Dressing Status #1,<MISSING>,159,159,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229124,Altered Sensory Perception NCP - Expected Outcomes,<MISSING>,159,159,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229093,Altered Skin Integrity NCP - Problem resolved,<MISSING>,158,158,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224740,RSBI Deferred,<MISSING>,157,157,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224936,Impaired Skin Site #8,<MISSING>,156,156,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227752,Cordis/Introducer Placement Confirmed by X-ray,<MISSING>,155,155,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227456,Albumin,g/dL,154,154,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224327,PCA medication,<MISSING>,153,153,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224042,Incision Dressing #1,<MISSING>,153,153,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228733,Pressure ulcer #1- Wound Base,<MISSING>,153,153,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229152,Palliative Care NCP - Interventions,<MISSING>,153,153,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224986,Undermining Present #2,<MISSING>,153,153,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228419,Compression device # 1,<MISSING>,152,152,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229108,Post-op Care NCP - Plan revised,<MISSING>,151,151,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228506,Pressure Ulcer #1- Location,<MISSING>,151,151,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226540,Hematocrit (whole blood - calc),%,150,150,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229106,Pain NCP - Plan revised,<MISSING>,150,150,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224328,PCA dose,<MISSING>,149,149,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227111,PCA  dose units,<MISSING>,149,149,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224951,Impaired Skin Width #2,cm,149,149,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224329,PCA lockout (min),min,148,148,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224330,PCA 1 hour limit,<MISSING>,148,148,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229681,Indwelling Urinary Catheter Care,<MISSING>,147,147,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227130,Trach Care,<MISSING>,146,146,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227429,Troponin-T,ng/mL,145,145,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227113,PCA 1 hour limit units,<MISSING>,145,145,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227631,Arctic Sun Temp #2 Location,<MISSING>,145,145,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229098,Impaired Fluid Balance NCP - Plan revised,<MISSING>,144,144,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224842,Cardiac Output (CCO),L/min,143,143,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228813,Pressure ulcer #1- Stage,<MISSING>,142,142,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228549,Pressure Ulcer #1- Type,<MISSING>,142,142,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227630,Arctic Sun Temp #1 Location,<MISSING>,142,142,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227634,Arctic Sun/Alsius Temp #2 C,°C,141,141,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224907,Impaired Skin Drainage #7,<MISSING>,140,140,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224928,Impaired Skin Odor #7,<MISSING>,140,140,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229476,PICC Line Power PICC,<MISSING>,139,139,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227684,Safety Measures,<MISSING>,138,138,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228577,Impaired Skin #2- Type,<MISSING>,138,138,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220072,Central Venous Pressure Alarm - High,mmHg,137,137,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228530,Impaired Skin #2- Treatment,<MISSING>,137,137,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225379,Indwelling Port (PortaCath) Site Appear,<MISSING>,137,137,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227632,Arctic Sun/Alsius Temp #1 C,°C,137,137,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226329,Blood Temperature CCO (C),°C,136,136,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224935,Impaired Skin Site #7,<MISSING>,135,135,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224949,Impaired Skin Type #7,<MISSING>,135,135,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225133,Discharge needs,<MISSING>,134,134,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220073,Central Venous Pressure  Alarm - Low,mmHg,134,134,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229110,Safety Restraints NCP - Plan revised,<MISSING>,134,134,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220734,PH (dipstick),units,133,133,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224715,SBT Started,<MISSING>,132,132,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227471,Specific Gravity (urine),<MISSING>,132,132,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224438,Chest Tube Site # 2,<MISSING>,132,132,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227125,Indwelling (PortaCath) Port Type,<MISSING>,132,132,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223772,SvO2,%,131,131,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225070,Unable to assess psychological,<MISSING>,131,131,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224914,Impaired Skin Drainage Amount #7,<MISSING>,131,131,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225129,Unable to assess teaching / learning needs,<MISSING>,129,129,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224921,Impaired Skin Length #7,cm,129,129,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224956,Impaired Skin Width #7,cm,129,129,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224331,PCA basal rate (mL/hour),ml/hr,128,128,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224925,Impaired Skin Odor #4,<MISSING>,128,128,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226479,Ectopy Type 2,<MISSING>,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227468,Fibrinogen,mg/dL,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224980,Tunneling Present #3,<MISSING>,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224987,Undermining Present #3,<MISSING>,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229538,PICC - Heparin Dependent,<MISSING>,126,126,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227439,Indwelling Port (PortaCath) placed in outside facility,<MISSING>,126,126,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224834,Temporary Ventricular Sens,<MISSING>,125,125,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227445,CK-MB,ng/mL,125,125,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227360,Indwelling Port (PortaCath) Dressing Occlusive,<MISSING>,125,125,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227127,Indwelling (PortaCath) Port #1,<MISSING>,124,124,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227627,Arctic Sun/Alsius Set Temp,°C,124,124,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227628,Arctic Sun Water Temp,°C,124,124,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228318,Shivering Assessment,<MISSING>,123,123,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225634,CK (CPK),IU/L,122,122,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225206,Multi Lumen Zero/Calibrate,<MISSING>,122,122,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228336,CAM-ICU Inattention,<MISSING>,121,121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224421,Spont Vt,mL,121,121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224422,Spont RR,bpm,121,121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224835,Temporary Ventricular Capture,<MISSING>,120,120,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227287,O2 Flow (additional cannula),L/min,116,116,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226480,Ectopy Frequency 2,<MISSING>,116,116,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224908,Impaired Skin Drainage #8,<MISSING>,114,114,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224915,Impaired Skin Drainage Amount #8,<MISSING>,114,114,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224893,Impaired Skin Cleanse #7,<MISSING>,113,113,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224894,Impaired Skin Cleanse #8,<MISSING>,113,113,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224950,Impaired Skin Type #8,<MISSING>,113,113,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224332,PCA inject,<MISSING>,112,112,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224663,PCA attempt,<MISSING>,112,112,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229371,Bladder Scan Estimate,mL,112,112,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229327,Activity Intolerance  NCP - Expected outcomes,<MISSING>,112,112,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223773,PA Line cm Mark,cm,111,111,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225813,Baseline pain level,<MISSING>,111,111,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229387,Cerebellar - Heel -> Shin,<MISSING>,111,111,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223836,Airway Type,<MISSING>,110,110,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224967,Pressure Ulcer Stage #4,<MISSING>,110,110,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229881,Dialysis/Pheresis Biopatch,<MISSING>,110,110,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224994,Incision Appearance #3,<MISSING>,109,109,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225005,Incision Closure #3,<MISSING>,109,109,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224665,PCA total dose,<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225086,Unable to assess cognitive / perceptual,<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229697,CPOT-Body Movements (CPOTa),<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229699,CPOT-Facial Expression (CPOTa),<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228500,Impaired Skin #5- Location,<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229647,Stroke NCP - Problem,<MISSING>,108,108,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225355,PA Catheter Site Appear,<MISSING>,107,107,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224379,PCA cleared,<MISSING>,107,107,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229094,Coping/Knowledge Deficit  NCP - Plan revised,<MISSING>,107,107,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223921,Neuro Symptoms,<MISSING>,106,106,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229692,CPOT-Muscle Tension (CPOTa),<MISSING>,106,106,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229694,CPOT-Vocalization (CPOTa),<MISSING>,106,106,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227351,PA Catheter Dressing Occlusive,<MISSING>,104,104,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226534,Sodium (whole blood),mEq/L,104,104,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225018,Incision Drainage Amount #2,<MISSING>,104,104,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227809,ETT Position Change,<MISSING>,104,104,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223960,Temporary Venticular Stim Threshold mA,mA,103,103,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228309,GI #2 Tube Place Check,<MISSING>,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227117,PCA total dose units,<MISSING>,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226707,Height,Inch,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226730,Height (cm),cm,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225175,See chart for initial patient assessment,<MISSING>,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223938,Ulnar Pulse R,<MISSING>,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224808,CT #2 Suction Type,<MISSING>,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223958,Temporary Venticular Sens Threshold mV,mV,101,101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225357,PA Catheter Waveform Appear,<MISSING>,101,101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228561,Incision #3- Location,<MISSING>,101,101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229880,PICC Biopatch,<MISSING>,101,101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227786,Impaired Skin  - Dressing Status #7,<MISSING>,101,101,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225090,Interpreter,<MISSING>,100,100,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225117,Unable to assess nutrition / education,<MISSING>,100,100,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227357,Dialysis Catheter Dressing Occlusive,<MISSING>,100,100,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224427,CT #2 Suction Amount,<MISSING>,99,99,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228971,Nutrition NCP - Body needs,<MISSING>,99,99,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229105,Nutrition  NCP - Problem resolved,<MISSING>,99,99,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227124,Dialysis Catheter Type,<MISSING>,99,99,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228010,16 G Infiltration Scale,<MISSING>,97,97,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225091,Unable to assess activity / mobility,<MISSING>,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228009,16 G Phlebitis Scale,<MISSING>,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224390,Temporary Atrial Sens,<MISSING>,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224866,Temporary Atrial Capture,<MISSING>,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228854,Impaired Skin #2- Type,<MISSING>,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223806,Tremor (CIWA),<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223810,Paroxysmal Sweats,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223811,Anxiety,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223814,Auditory Disturbance,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223817,Agitation,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223818,Tactile Disturbances,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223819,Visual Disturbances,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223820,Headache,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223821,Orient/Clouding Sensory,<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229319,Activity / Mobility (JH-HLM),<MISSING>,94,94,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223763,Bladder Pressure,mmHg,93,93,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223805,Nausea and Vomiting (CIWA),<MISSING>,93,93,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229003,Self harm NCP - Interventions,<MISSING>,92,92,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225347,Midline Site Appear,<MISSING>,92,92,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226114,PA Catheter placed in outside facility,<MISSING>,92,92,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227119,Epidural Location,<MISSING>,90,90,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225674,Mixed Venous O2% Sat,%,90,90,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224368,Epidural Medication,<MISSING>,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223824,Seizure,<MISSING>,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225105,Unable to assess habits,<MISSING>,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223823,Insomnia,<MISSING>,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224717,SBT Successfully Completed,<MISSING>,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224895,Impaired Skin Depth #2,cm,89,89,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224366,Epidural Infusion Rate (mL/hr),ml/hr,88,88,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224013,Stool Guaiac,<MISSING>,88,88,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223949,Ulnar Pulse L,<MISSING>,88,88,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228539,Pressure Ulcer #1- Treatment,<MISSING>,87,87,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224753,Temporary Atrial Sens Setting mV,mV,86,86,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229096,Discharge NCP - Plan revised,<MISSING>,86,86,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224971,Pressure Ulcer Stage #8,<MISSING>,86,86,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229868,Risk Factors for Pressure Injury,<MISSING>,85,85,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229685,Vaulables Checklist,<MISSING>,85,85,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228518,Impaired Skin #1- Cleanse,<MISSING>,85,85,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225217,Trauma Line Site Appear,<MISSING>,85,85,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224755,Temporary Atrial Stim Setting mA,mA,84,84,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228578,Impaired Skin #3- Type,<MISSING>,83,83,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223939,Brachial Pulse R,<MISSING>,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228601,Impaired Skin #2- Dressing Status,<MISSING>,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226119,Trauma Line placed in outside facility,<MISSING>,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227353,Trauma Line Dressing Occlusive,<MISSING>,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225112,Unable to assess pain,<MISSING>,81,81,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225237,16 Gauge Site Appear,<MISSING>,80,80,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224929,Impaired Skin Odor #8,<MISSING>,80,80,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227762,Trauma Line Placement Confirmed by X-ray,<MISSING>,80,80,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226112,Midline placed in outside facility,<MISSING>,79,79,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228531,Impaired Skin #3- Treatment,<MISSING>,78,78,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227757,PA Catheter Placement Confirmed by X-ray,<MISSING>,77,77,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224837,Temporary Ventricular Sens Setting mV,mV,77,77,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228803,Pressure ulcer #1- Dressing status,<MISSING>,77,77,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229143,Metabolic disturbance NCP - Expected outcomes,<MISSING>,76,76,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227418,Midline Dressing Occlusive,<MISSING>,74,74,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227577,BiPap Mode,<MISSING>,74,74,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228573,Incision #3- Treatment,<MISSING>,74,74,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224918,Impaired Skin Length #4,cm,74,74,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226536,Chloride (whole blood),mEq/L,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224754,Temporary Atrial Stim Threshold mA,mA,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229357,Absolute Count - Neuts,K/uL,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229358,Absolute Count - Lymphs,K/uL,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229359,Absolute Count - Monos,K/uL,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229360,Absolute Count - Eos,K/uL,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229361,Absolute Count - Basos,K/uL,73,73,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227578,BiPap Mask,<MISSING>,72,72,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227579,BiPap EPAP,cmH2O,72,72,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224752,Temporary Atrial Sens Threshold mV,mV,72,72,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228833,Pressure ulcer #1- Tunneling present,<MISSING>,72,72,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223847,Passey Muir Valve in use,<MISSING>,72,72,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227473,Incision Site #2,<MISSING>,71,71,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229350,Impaired Mobility NCP - Plan revised,<MISSING>,71,71,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227539,ART Blood Pressure Alarm Source,<MISSING>,71,71,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224425,CT #2 Dressing,<MISSING>,71,71,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223759,Precautions: Standard +,<MISSING>,70,70,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227580,BiPap IPAP,cmH2O,70,70,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227537,ART Blood Pressure Alarm - High,mmHg,69,69,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227538,ART Blood Pressure Alarm - Low,mmHg,69,69,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224838,Temporary Ventricular Stim Setting mA,mA,69,69,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224424,CT #2 Drainage,<MISSING>,69,69,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228843,Pressure ulcer #1- Undermining present,<MISSING>,69,69,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225028,Dressing Status #2,<MISSING>,68,68,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229349,Impaired Mobility NCP - Problem resolved,<MISSING>,67,67,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224426,CT #2 Fluctuate,<MISSING>,67,67,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227454,Vancomycin (Random),ug/mL,67,67,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224922,Impaired Skin Length #8,cm,67,67,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224957,Impaired Skin Width #8,cm,67,67,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227755,Midline Placement Confirmed by X-ray,<MISSING>,66,66,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228310,GI #2 Tube Place Method,<MISSING>,66,66,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225023,Incision Dressing #2,<MISSING>,66,66,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228499,Impaired Skin #4- Location,<MISSING>,66,66,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227588,GI #1 Tube Place Method,<MISSING>,66,66,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224896,Impaired Skin Depth #3,cm,65,65,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224777,CT #2 Leak,<MISSING>,64,64,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223966,Transcutaneous Pacer Placement,<MISSING>,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225280,Called Out,<MISSING>,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220063,Pulmonary Artery Pressure Alarm - High,mmHg,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220066,Pulmonary Artery Pressure Alarm - Low,mmHg,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228610,Pressure Ulcer #1- Depth,cm,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224963,Impaired Skin Wound Base #7,<MISSING>,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229092,Altered Skin Integrity NCP - Plan revised,<MISSING>,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225082,Pregnant,<MISSING>,62,62,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223828,Slurred Speech,<MISSING>,62,62,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223829,Drowsiness,<MISSING>,62,62,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225014,Incision Drainage #3,<MISSING>,61,61,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223825,Sustained Nystagmus,<MISSING>,61,61,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223827,Ataxia,<MISSING>,61,61,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225230,20 Gauge Reason Discontinued,<MISSING>,61,61,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224119,22 Gauge Site Appear,<MISSING>,60,60,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224969,Pressure Ulcer Stage #6,<MISSING>,60,60,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228565,Incision #1- Cleanse,<MISSING>,60,60,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224043,Incision Cleansing #1,<MISSING>,60,60,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227241,PAP Alarm Source,<MISSING>,59,59,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228596,Incision #3- Dressing Status,<MISSING>,58,58,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228579,Impaired Skin #4- Type,<MISSING>,58,58,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225358,PA Catheter Zero/Calibrate,<MISSING>,57,57,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228303,CAM-ICU Disorganized thinking,<MISSING>,57,57,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224423,CT #2 Crepitus,<MISSING>,57,57,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227700,Safety Measures,<MISSING>,57,57,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227980,Intra Aortic Balloon Pump Setting,<MISSING>,56,56,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228602,Impaired Skin #3- Dressing Status,<MISSING>,56,56,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225085,Post menopausal,<MISSING>,55,55,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224309,Assisted Systole,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224310,Augmented Diastole,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224311,BAEDP,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224322,IABP Mean,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224652,Unassisted Systole,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224654,PAEDP,mmHg,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227801,Stool Guaiac QC,<MISSING>,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228855,Impaired Skin #3- Type,<MISSING>,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224833,SBT Deferred,<MISSING>,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228532,Impaired Skin #4- Treatment,<MISSING>,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228420,Compression device # 2,<MISSING>,54,54,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224173,MDI #2 Drug,<MISSING>,53,53,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229141,Substance withdrawal NCP - Problem resolved,<MISSING>,53,53,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224953,Impaired Skin Width #4,cm,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228229,PAR-Activity,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228230,PAR-Circulation,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228231,PAR-Consciousness,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228232,PAR-Oxygen saturation,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228234,PAR-Respiration,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228580,Impaired Skin #5- Type,<MISSING>,52,52,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227668,Side Rails_V2,<MISSING>,51,51,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229659,% Minute Volume,<MISSING>,51,51,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223926,Neuro Drain #1 Type,<MISSING>,51,51,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223800,Epidural Appearance,<MISSING>,50,50,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229001,Self harm NCP - Expected outcomes,<MISSING>,50,50,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227581,BiPap bpm (S/T -Back up),bpm,50,50,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228137,CHG Bath,<MISSING>,50,50,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224439,Chest Tube Site #3,<MISSING>,50,50,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228866,Plateau Pressure (IABP),mmHg,49,49,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223944,Brachial Pulse L,<MISSING>,49,49,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230083,Replacement Fluid (Pre-Filter),<MISSING>,49,49,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230084,Replacement Fluid (Post-Filter),<MISSING>,49,49,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230085,Dialysate Fluid,<MISSING>,49,49,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228753,Pressure ulcer #1- Drainage,<MISSING>,48,48,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230033,Stool Management,<MISSING>,48,48,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228413,Seizure Activity,<MISSING>,47,47,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224844,Permanent Pacemaker Mode,<MISSING>,46,46,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225988,IABP Position on leg,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220088,Cardiac Output (thermodilution),L/min,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228296,PCA concentrations,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224970,Pressure Ulcer Stage #7,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224964,Impaired Skin Wound Base #8,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229686,Warming Device,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229742,Activity / Mobility (RN Daily Mobility Goal),<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229129,Altered Sensory Perception NCP - Problem resolved,<MISSING>,45,45,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224019,Bladder Irrigation,<MISSING>,44,44,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224410,PCA bolus,<MISSING>,44,44,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227787,Impaired Skin  - Dressing Status  #8,<MISSING>,44,44,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224978,Surrounding Tissue #8,<MISSING>,44,44,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229133,Elimination NCP - Expected outcomes,<MISSING>,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224101,Chest PT R/L,<MISSING>,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229356,Differential - Immature Granulocytes,%,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224977,Surrounding Tissue #7,<MISSING>,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227455,Vancomycin (Trough),ug/mL,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228153,Dual Signal Screen,<MISSING>,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230115,CVL SecurePort IV,<MISSING>,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225048,Knee Location - Immobilizer,<MISSING>,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225672,Lipase,IU/L,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224897,Impaired Skin Depth #4,cm,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223932,Neuro Drain #1 Drainage,<MISSING>,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223940,Femoral Pulse R,<MISSING>,41,41,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227115,PCA bolus units,<MISSING>,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225637,Differential-Atyps,%,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225638,Differential-Bands,%,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228763,Pressure ulcer #1- Drainage amount,<MISSING>,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228620,Pressure Ulcer #1- Width,cm,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228723,Pressure ulcer #1- Length,cm,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227582,BiPap O2 Flow,L/min,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227985,Neuro Drain #1 Landmark,<MISSING>,40,40,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223760,Health Care Proxy,<MISSING>,39,39,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228603,Impaired Skin #4- Dressing Status,<MISSING>,39,39,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224172,MDI #2 Puff,<MISSING>,38,38,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226185,ICU Consent Signed,<MISSING>,38,38,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229324,CAM-ICU Disorganized thinking,<MISSING>,38,38,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229150,Palliative Care NCP - Expected outcomes,<MISSING>,38,38,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229104,Nutrition  NCP - Plan revised,<MISSING>,38,38,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227810,ETT Re-taped,<MISSING>,37,37,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223945,Femoral Pulse L,<MISSING>,37,37,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223931,Neuro Drain #1 Status,<MISSING>,37,37,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226537,Glucose (whole blood),<MISSING>,36,316,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227594,Impaired Skin Cleanse #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227598,Impaired Skin Drainage #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227600,Impaired Skin Drainage Amount #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227604,Impaired Skin Odor #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227606,Impaired Skin Site #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227608,Impaired Skin Treatment #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227612,Impaired Skin Type #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227616,Impaired Skin Wound Base #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227618,Pressure Ulcer Stage #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227620,Surrounding Tissue #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227622,Tunneling Present #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227788,Impaired Skin  - Dressing Status #9,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228744,Pressure ulcer #2- Surrounding tissue,<MISSING>,36,36,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224090,Knee Immobilizer Status,<MISSING>,35,35,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228714,Bladder scanned,<MISSING>,35,35,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224919,Impaired Skin Length #5,cm,35,35,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224954,Impaired Skin Width #5,cm,35,35,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224845,Permanent Pacemaker Rate,/min,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225233,18 Gauge Reason Discontinued,<MISSING>,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224983,Tunneling Present #6,<MISSING>,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224990,Undermining Present #6,<MISSING>,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228533,Impaired Skin #5- Treatment,<MISSING>,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225737,Arterial Line Discontinued,<MISSING>,33,33,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224436,CT #3 Suction Amount,<MISSING>,33,33,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224810,CT #3 Suction Type,<MISSING>,33,33,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225029,Dressing Status #3,<MISSING>,32,32,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224981,Tunneling Present #4,<MISSING>,32,32,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228519,Impaired Skin #2- Cleanse,<MISSING>,32,32,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225693,Triglyceride,mg/dL,32,32,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225684,Serum Osmolality,mOsm/kg,32,32,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225024,Incision Dressing #3,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227474,Incision Site #3,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224968,Pressure Ulcer Stage #5,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224982,Tunneling Present #5,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224989,Undermining Present #5,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225729,Multi Lumen Line Tip Cultured,<MISSING>,31,31,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227120,Motor Deficit,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229301,GI #2 Tube Mark (CM),cm,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225225,CCO PAC Site Appear,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225227,CCO PAC Waveform Appear,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226108,CCO PAC placed in outside facility,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227352,CCO PAC Dressing Occlusive,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227751,CCO PAC Placement Confirmed by X-ray,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227981,Neuro Drain #2 Type,<MISSING>,30,30,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225722,Arterial Line Tip Cultured,<MISSING>,29,29,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225695,Uric Acid,mg/dL,29,29,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225192,Collar Care,<MISSING>,29,29,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224432,CT #3 Dressing,<MISSING>,29,29,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227607,Impaired Skin Site #10,<MISSING>,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228507,Pressure Ulcer #2- Location,<MISSING>,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229648,Stroke NCP - Problem resolved,<MISSING>,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229649,Stroke NCP - Type,<MISSING>,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229650,Stroke NCP - Water Swallow,<MISSING>,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230045,Intellivent (Hamilton Vent Mode),<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224998,Incision Cleansing #2,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229122,Elimination NCP - Problem resolved,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228550,Pressure Ulcer #2- Type,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228814,Pressure ulcer #2- Stage,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228773,Pressure ulcer #1- Odor,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224434,CT #3 Fluctuate,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224779,CT #3 Leak,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224114,PT Splint Location #1,<MISSING>,27,27,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229140,Substance withdrawal NCP - Plan revised,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225628,CK-MB fraction (%),%,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227133,Small Volume Neb Drug #2,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224985,Tunneling Present #8,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224992,Undermining Present #8,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224430,CT #3 Drainage,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229646,Stroke NCP - Plan revised,<MISSING>,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229113,Self harm NCP - Problem resolved,<MISSING>,25,25,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227585,GI Guaiac,<MISSING>,25,25,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228783,Pressure ulcer #1- Cleanse,<MISSING>,25,25,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224428,CT #3 Crepitus,<MISSING>,25,25,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227568,Airway Size (mm),<MISSING>,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227516,PO2 (Mixed Venous),mmHg,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229155,Palliative Care NCP - Problem resolved,<MISSING>,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224418,Cuff Volume (mL),mL,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228156,Performance Level,<MISSING>,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229865,No Pressure Injury Present,<MISSING>,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227602,Impaired Skin Length #9,cm,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227614,Impaired Skin Width #9,cm,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224006,Emesis Appearance,<MISSING>,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226499,Hemodialysis Output,mL,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227681,Less Restrictive Measures_V1,<MISSING>,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228335,CAM-ICU Disorganized thinking,<MISSING>,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220581,Amylase,IU/L,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228151,Aortic Pressure Signal - Diastolic,mmHg.,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228152,Aortic Pressure Signal - Systolic,mmHg.,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228154,Flow Rate (Impella),L/min,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228157,Placement Monitoring Screen,<MISSING>,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229679,Type of Catheter (Impella),<MISSING>,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225180,PT Splint Status #1,<MISSING>,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223802,Nerve Stimulated,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224413,TOF Response,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226889,Legal Guardian,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228233,PAR-Remain sedated,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229128,Altered Sensory Perception NCP - Plan revised,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228501,Impaired Skin #6- Location,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228581,Impaired Skin #6- Type,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228158,Purge Pressure,mmHg,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228159,Purge Solution Flow Rate,ml/hr,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229311,Motor Current (mA) High,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229312,Motor Current (mA) Low,<MISSING>,21,21,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224367,Epidural Total Dose (mL),mL,20,20,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226846,Feeding Weight,kg,20,20,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228300,CAM-ICU MS change,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225019,Incision Drainage Amount #3,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224414,TOF Twitch,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224662,Current Used/mA,mA,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228540,Pressure Ulcer #2- Treatment,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223941,Popliteal Pulse R,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223946,Popliteal Pulse L,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229148,Metabolic disturbance NCP - Problem resolved,<MISSING>,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228734,Pressure ulcer #2- Wound Base,<MISSING>,18,18,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228834,Pressure ulcer #2- Tunneling present,<MISSING>,18,18,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228844,Pressure ulcer #2- Undermining present,<MISSING>,18,18,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225651,Direct Bilirubin,mg/dL,18,18,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225732,PICC Line Tip Cultured,<MISSING>,18,18,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225339,IABP Site Appear,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225341,IABP Art. Waveform Appear,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225342,IABP Zero/Calibrate,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225979,IABP Size,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225981,IABP Alarms Activated,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225982,IABP Balloon Waveform,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225984,IABP Trigger,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225985,IABP Helium Tubing,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225986,IABP Arterial Waveform Source,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225987,IABP Power Source,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226110,IABP placed in outside facility,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227754,IABP Placement Confirmed by X-ray,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223797,Sensory Level,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223952,Pericardial Drain Status,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223954,Pericardial Drain Site,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228520,Impaired Skin #3- Cleanse,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229979,COVID NCP - Plan revised,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228502,Impaired Skin #7- Location,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228582,Impaired Skin #7- Type,<MISSING>,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227460,Phenobarbital,ug/mL,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224025,Spiritual Support,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225767,Sheath Site Appear,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226117,Sheath placed in outside facility,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224716,SBT Stopped,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229761,Creatinine (whole blood),mg/dL,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228566,Incision #2- Cleanse,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224121,22 Gauge Reason Discontinued,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227728,AVA Line Site Appear,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229375,UF Heparin (Anti-Xa),<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228867,Assist Device,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223963,Temporary Pacemaker Wires Ground,<MISSING>,16,16,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223953,Pericardial Drain Drainage,<MISSING>,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227446,Brain Natiuretic Peptide (BNP),pg/mL,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229980,COVID NCP - Problem resolved,<MISSING>,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227444,C Reactive Protein (CRP),mg/L,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223925,Seizure Duration,<MISSING>,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224445,GI #2 Tube Drainage,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220507,Activated Clotting Time,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223771,PCWP,mmHg,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227802,GI Guaiac QC,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227595,Impaired Skin Cleanse #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227599,Impaired Skin Drainage #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227601,Impaired Skin Drainage Amount #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227605,Impaired Skin Odor #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227609,Impaired Skin Treatment #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227613,Impaired Skin Type #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227619,Pressure Ulcer Stage #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227621,Surrounding Tissue #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227789,Impaired Skin  - Dressing Status #10,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225228,CCO PAC Zero/Calibrate,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228535,Impaired Skin #7- Treatment,<MISSING>,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228368,Cardiac Index (CI NICOM),L/min/m2,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228375,Stroke Volume Index (SVI NICOM),%,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228343,OCAT - Lips Tongue Gums Palate,<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228346,OCAT - Teeth,<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225744,Multi Lumen Line Discontinued,<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224747,Transpulmonary Pressure (Insp. Hold),cmH2O,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224746,Transpulmonary Pressure (Exp. Hold),cmH2O,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229636,Test Performed (AM-PAC),<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229638,Discharge Recommendations (AM-PAC),<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228521,Impaired Skin #4- Cleanse,<MISSING>,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227462,FK506,ng/mL,13,13,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228376,Stroke Volume Variation (SVV NICOM),<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228344,"OCAT - Saliva secretions, Voice quality",<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228345,OCAT - Swallow,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228702,Lines/Tubes,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220603,Cholesterol,mg/dL,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220624,HDL,mg/dL,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225671,LDL calculated,mg/dL,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227723,AVA Dressing Occlusive,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223801,NMB Medication,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229330,Activity Intolerance  NCP - Interventions,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228606,Impaired Skin #7- Dressing Status,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228604,Impaired Skin #5- Dressing Status,<MISSING>,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227355,IABP Dressing Occlusive,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227671,Non-Violent Restraints,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224419,Negative Insp. Force,cmH2O,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228382,Total Peripheral Resistance Index (TPRI) (NICOM),dynes*sec/cm5/m2,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229112,Self harm NCP - Plan revised,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228687,Code Status.,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227543,CO (Arterial),L/min,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227546,SVV (Arterial),%,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227547,SV (Arterial),mL/beat,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227732,AVA Line Placement Confirmed by X-ray,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228605,Impaired Skin #6- Dressing Status,<MISSING>,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224999,Incision Cleansing #3,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224411,Epidural Bolus (mL),mL,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226473,Blood Transfusion Consent,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227586,GI pH,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225770,Sheath Waveform Appear,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227356,Sheath Line Dressing Occlusive,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229123,Elimination NCP - Plan revised,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229704,CP-Pain Management,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229154,Palliative Care NCP - Plan revised,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225043,Incision Packing #2,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224661,Baseline Current/mA,mA,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227727,AVA Line placed in outside facility,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229633,Basic Mobility (AM-PAC),<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224070,Sitter,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228173,Impella Position,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229147,Metabolic disturbance NCP - Plan revised,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227982,Neuro Drain #2 Status,<MISSING>,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229505,Surgibra,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228292,IO Placed in outside facility,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229705,CP-Pain Assessment Method,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224044,Incision Packing #1,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226135,14 Gauge placed in outside facility,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227365,14 Gauge Dressing Occlusive,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220621,Glucose (serum),<MISSING>,9,1304,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227463,Cortisol,ug/dL,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227983,Neuro Drain #2 Drainage,<MISSING>,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228856,Impaired Skin #4- Type,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224702,PCV Level,cmH2O,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228878,PeCO2,mmHg,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227761,Sheath Placement Confirmed by X-ray,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228567,Incision #3- Cleanse,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224680,Cuff Volume/units,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225989,Pericardial Drain Aspiration,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225990,Pericardial Drain Flush,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230135,Safety Related to,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229472,24 Gauge placed in outside facility,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229473,24 Gauge placed in the field,<MISSING>,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227678,Restraint Device (Non-Violent),<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225739,Cordis/Introducer Discontinued,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228700,DVT Prophy,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229293,Pain Control,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228754,Pressure ulcer #2- Drainage,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227686,Central Venous O2% Sat,%,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227730,AVA Waveform Appearance,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229540,Sheath Type,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227805,SvO2 SQI,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228534,Impaired Skin #6- Treatment,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228508,Pressure Ulcer #3- Location,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228551,Pressure Ulcer #3- Type,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228622,Pressure Ulcer #3- Width,cm,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228725,Pressure ulcer #3- Length,cm,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228735,Pressure ulcer #3- Wound Base,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228745,Pressure ulcer #3- Surrounding tissue,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228815,Pressure ulcer #3- Stage,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228835,Pressure ulcer #3- Tunneling present,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228845,Pressure ulcer #3- Undermining present,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227583,Autoset/CPAP,<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230144,Pain Level Acceptable (PreIntervention),<MISSING>,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227676,Reason for Restraints (Non-Violent),<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225980,IABP Volume,mL,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225949,NIV Mask,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228290,IO Dressing,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228293,IO Site Appearance,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228294,IO Wristband in place,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224359,QTc,sec,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228755,Pressure ulcer #3- Drainage,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228522,Impaired Skin #5- Cleanse,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227986,Neuro Drain #2 Landmark,<MISSING>,6,6,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228373,Passive Leg Raise Performed,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228370,CO / CI Change,%,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228372,Leg Raise Result (NICOM),<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228377,SVI Change,%,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229864,Pressure Injury Location,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228369,Cardiac Output (CO NICOM),L/min,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228374,Stroke Volume (SV NICOM),mL/beat,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220650,Total Protein,g/dL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228774,Pressure ulcer #2- Odor,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227440,Digoxin,ng/mL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225236,16 Gauge Reason Discontinued,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227242,Manual Blood Pressure Diastolic Right,mmHg,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227243,Manual Blood Pressure Systolic Right,mmHg,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228007,14 G Phlebitis Scale,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228008,14 G Infiltration Scale,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228097,14 Gauge placed in the field,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225724,Cordis/Introducer Line Tip Cultured,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225738,CCO PAC Discontinued,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228541,Pressure Ulcer #3- Treatment,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228162,Impella Catheter Position,cm,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228164,Impella Catheter Site,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228174,Impella Line Site Appear,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229680,Impella Line Type,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229377,Part 1 Question,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229378,Part 2 Question,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229379,Swallow Eval,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227567,Airway Location,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229466,24 G Infiltration Scale,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229467,24 G Phlebitis Scale,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229641,Stroke NCP - Consults,<MISSING>,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224065,Circulation/Skin Integrity,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224066,Position Change,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224067,Range of Motion,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227662,Patient/Family Informed_V2,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227669,Side Rails (Restraint),<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227680,Restraint Location_V2,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227682,Restraints Evaluated_V2,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227845,Rolling,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224167,Manual Blood Pressure Systolic Left,mmHg,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224643,Manual Blood Pressure Diastolic Left,mmHg,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223942,Graft/Flap Pulse,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228692,Glucose Control - Prophy,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229079,Pain Controlled,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229288,Nutrition,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229292,GI Prophy,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228712,VAP - Prophy,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225735,Trauma Line Tip Cultured,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228784,Pressure ulcer #2- Cleanse,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229706,CP-Pain Assessment Method-Post,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228804,Pressure ulcer #2- Dressing status,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228381,Total Peripheral Resistance (TPR) (NICOM),dynes*sec/cm5,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227731,AVA Line Zero/Calibrate,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229334,Activity Intolerance  NCP - Problem resolved,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228903,Altered Respiratory Status NCP - Goal,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228524,Impaired Skin #7- Cleanse,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228163,Impella Catheter Repositioned,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227461,Phenytoin (Dilantin),ug/mL,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224440,Chest Tube Site #4,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223930,Neuro Drain #1 Level,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228611,Pressure Ulcer #2- Depth,cm,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228621,Pressure Ulcer #2- Width,cm,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228724,Pressure ulcer #2- Length,cm,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225240,14 Gauge Site Appear,<MISSING>,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227831,Grooming,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227836,LE Dressing,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227837,Toileting,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227846,Supine / Side-lying to Sit,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227858,Rest HR - Aerobic Capacity,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227860,Rest RR - Aerobic Capacity,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227861,Rest O2 Sat - Aerobic Capacity,%,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227864,Activity HR - Aerobic Capacity,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227870,Recovery HR - Aerobic Capacity,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227872,Recovery RR - Aerobic Capacity,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227873,Recovery O2 Sat - Aerobic Capacity,%,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227943,Anticipated Discharge,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229027,Constitutional,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228698,Abdominal - (GI / Hepatic / Renal),<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228699,Cardiovascular,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228709,Respiratory,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228713,Vascular,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225745,PA Catheter Discontinued,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228689,Discharge from ICU,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228710,Sedation goal,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228697,Mobilization Plan,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228764,Pressure ulcer #2- Drainage amount,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224375,Cont Neb - Med,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227131,Cont. Neb Med Dose,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225725,Dialysis Catheter Tip Cultured,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227451,Tobramycin (Random),ug/mL,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225747,PICC Line Discontinued,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228302,CAM-ICU RASS LOC,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227807,In-line Suction Catheter Changed,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229333,Activity Intolerance NCP - Plan revised,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225108,Tobacco use,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229534,Multi Lumen - Obturator in place,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229601,Arm Immobilizer,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229813,Reason for Trigger (RN),<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229470,24 Gauge Dressing Occlusive,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226815,Airway problems,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225771,Sheath Zero/Calibrate,<MISSING>,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224988,Undermining Present #4,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225772,Sheath Size,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225728,Midline Tip Cultured,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227866,Activity RR - Aerobic Capacity,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227867,Activity O2 Sat - Aerobic Capacity,%,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225742,IABP Line Discontinued,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228691,Febrile last 24 hours,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228704,Neurological,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228719,Vented,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225636,D-Dimer,ng/mL,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227452,Tobramycin (Trough),ug/mL,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228301,CAM-ICU Inattention,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228442,BIS - EMG,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228443,BIS - SQI,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228444,BIS Index Range,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220580,Ammonia,umol/L,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225730,PA Catheter Line Tip Cultured,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228172,Impella Postion Confirmed,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224800,AV Fistula R Bruit,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224801,AV Fistula R Thrill,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224995,Incision Appearance #4,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225015,Incision Drainage #4,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228574,Incision #4- Treatment,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228597,Incision #4- Dressing Status,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224713,Circuit Changed,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227470,Sed Rate,mm/hr,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227962,Restraints (Violent),<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227966,Face to Face Eval (Violent),<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225723,CCO PAC Line Tip Cultured,<MISSING>,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227673,Non-Violent Restraints Ordered,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227674,Face to Face Eval (Non-Violent),<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225764,Sheath Line Discontinued,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225743,Midline Discontinued,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227847,Sit to Stand,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227813,Medication Bolus - Adjunctive Pain Management,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225750,Trauma Line Discontinued,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224901,Impaired Skin Depth #8,cm,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224192,Pulsus Paradoxus,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225239,14 Gauge Reason Discontinued,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227726,AVA Line Tip Cultured,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229634,Daily Activity (AM-PAC),<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224389,Heart Sounds,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223764,Orthostatic HR lying,bpm,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223765,Orthostatic HR sitting,bpm,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223766,Orthostatic BPs standing,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224645,Orthostatic BPs lying,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224646,Orthostatic BPs sitting,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224647,Orthostatic HR standing,bpm,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226092,Orthostatic BPd lying,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226094,Orthostatic BPd sitting,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,226096,Orthostatic BPd standing,mmHg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228907,Altered Respiratory Status NCP - outcomes met,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228945,Infection NCP - Goal,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228949,Infection NCP - outcomes met,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228775,Pressure ulcer #3- Odor,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228523,Impaired Skin #6- Cleanse,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224705,P High (APRV),cmH2O,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224706,P Low (APRV),cmH2O,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224707,T High (APRV),sec,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224709,T Low (APRV),sec,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228503,Impaired Skin #8- Location,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228583,Impaired Skin #8- Type,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228765,Pressure ulcer #3- Drainage amount,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227450,Tobramycin (Peak),ug/mL,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230035,Accessory muscle use.,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230036,Grunting,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230037,HR per min,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230038,Look of fear,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230039,Nasal flaring.,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230040,Paradoxical breathing,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230041,Restlessness.,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230042,RR per min,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223830,PH (Arterial),<MISSING>,1,735,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228171,Impella Placement Confirmed,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225006,Incision Closure #4,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225020,Incision Drainage Amount #4,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228562,Incision #4- Location,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,228575,Incision #5- Treatment,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227441,LDL measured,mg/dL,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224710,Recruitment Press,cmH2O,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224711,Recruitment Duration,sec,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224712,Recruitment Mode,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229374,AT (Antithrombin funct),%,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227626,Seizure Pads,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229474,24 Gauge Reason Discontinued,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227469,Thrombin,sec,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227963,Restraints Ordered (Violent),<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227964,Reason for Restraint (Violent),<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227965,Restraint Device (Violent),<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229475,Indwelling Port (PortaCath) Power Port,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,230140,Unable to assess reproductive,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220645,Sodium (serum),<MISSING>,1,1393,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229032,HEENT,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224984,Tunneling Present #7,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224991,Undermining Present #7,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225190,Pin Care,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227187,Pinsp (Draeger only),cmH2O,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220274,PH (Venous),<MISSING>,1,206,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,223679,TCO2 (calc) Venous,<MISSING>,1,165,2,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224743,Vd/Vt Ratio,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224447,Family Meeting,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,227984,Neuro Drain #2 Level,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,224456,PT Splint Location #2,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225182,PT Splint Status #2,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,229316,TOF Twitch,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,220194,Temporary AV interval,msec,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+chartevents.csv.gz,225044,Incision Packing #3,<MISSING>,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225158,NaCl 0.9%,mL,71348,71348,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220949,Dextrose 5%,mL,56701,56701,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225943,Solution,mL,32378,32378,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226452,PO Intake,mL,22978,22978,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222168,Propofol,mg,22648,22649,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221906,Norepinephrine,mg,20331,20331,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225799,Gastric Meds,mL,17507,17507,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223258,Insulin - Regular,units,15316,15316,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226453,GT Flush,mL,13393,13393,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221749,Phenylephrine,mg,11687,11687,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221744,Fentanyl,mcg,10708,11088,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225166,Potassium Chloride,mEq,9076,9076,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225975,Heparin Sodium (Prophylaxis),dose,7185,7185,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225942,Fentanyl (Concentrate),mg,6699,6699,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221833,Hydromorphone (Dilaudid),mg,6259,6259,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221668,Midazolam (Versed),mg,6196,6196,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225798,Vancomycin,dose,5817,6063,4,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225828,LR,mL,5759,5759,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221794,Furosemide (Lasix),mg,5251,5251,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226089,Piggyback,mL,4968,4968,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227522,KCL (Bolus),mL,4949,4949,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223262,Insulin - Humalog,units,4857,4857,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225152,Heparin Sodium,units,4756,4756,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225797,Free Water,mL,4614,4614,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222056,Nitroglycerin,mg,4307,4307,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228315,Acetaminophen-IV,mg,3931,3933,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225944,Sterile Water,mL,3753,3753,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222011,Magnesium Sulfate,grams,3642,3642,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229420,Dexmedetomidine (Precedex),mcg,3407,3773,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225154,Morphine Sulfate,mg,3315,3315,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225851,Cefepime,dose,3251,3390,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225974,Metoprolol,mg,3191,3191,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221456,Calcium Gluconate,grams,3159,3159,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225893,Piperacillin/Tazobactam (Zosyn),dose,2982,3006,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225907,Famotidine (Pepcid),dose,2920,2960,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225884,Metronidazole,dose,2911,3012,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227536,KCl (CRRT),mEq.,2857,2857,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229630,Phenylephrine (50/250),mg,2623,2623,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225168,Packed Red Blood Cells,mL,2623,2623,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227523,Magnesium Sulfate (Bolus),mL,2607,2607,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225910,Pantoprazole (Protonix),dose,2506,2980,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225150,Dexmedetomidine (Precedex),mcg,2244,2289,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225850,Cefazolin,dose,2140,2194,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222042,Nicardipine,mg,1959,1959,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227525,Calcium Gluconate (CRRT),grams,1946,1946,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221385,Lorazepam (Ativan),mg,1854,1854,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223260,Insulin - Glargine,units,1847,1847,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227526,Citrate,mmol,1835,1835,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225883,Meropenem,dose,1832,1873,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227529,ACD-A Citrate (1000ml),mL,1819,1819,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222315,Vasopressin,units,1698,1698,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221828,Hydralazine,mg,1450,1450,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225823,D5 1/2NS,mL,1436,1436,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220864,Albumin 5%,mL,1374,1374,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221289,Epinephrine,mg,1364,1365,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220862,Albumin 25%,mL,1307,1307,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225153,Labetalol,mg,1277,1277,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228340,Furosemide (Lasix) 250/50,mg,1252,1252,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228351,Nepro (Full),mL,1144,1144,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221555,Cisatracurium,mg,1121,1121,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226364,OR Crystalloid Intake,mL,1102,1102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221662,Dopamine,mg,1060,1060,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229296,Vital High Protein (Full),mL,972,972,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221468,Diltiazem,mg,959,959,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225855,Ceftriaxone,dose,905,938,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229009,Promote (Full),mL,902,902,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221712,Ketamine,mg,883,907,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229624,Nicardipine 40mg/200,mg,846,846,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220952,Dextrose 50%,mL,812,812,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226361,Pre-Admission/Non-ICU Intake,mL,796,797,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220970,Fresh Frozen Plasma,mL,776,776,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221824,Haloperidol (Haldol),mg,747,747,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229295,Glucerna 1.5 (Full),mL,745,745,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228316,Levetiracetam (Keppra),mg,735,738,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225936,Replete with Fiber (Full),mL,720,720,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225859,Ciprofloxacin,dose,711,717,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229013,Glucerna 1.2 (Full),mL,708,708,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229297,Osmolite 1.5 (Full),mL,703,703,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221429,Esmolol,mg,640,640,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229014,Promote with Fiber (Full),mL,634,634,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229632,Phenylephrine (200/250),mg,605,605,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225833,Thiamine,mg,603,603,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229011,Jevity 1.5 (Full),mL,590,590,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225159,NaCl 0.45%,mL,582,582,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220995,Sodium Bicarbonate 8.4%,mEq,552,552,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229010,Jevity 1.2 (Full),mL,530,530,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225170,Platelets,mL,520,520,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225892,Piperacillin,dose,519,520,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225837,Acyclovir,dose,491,499,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225834,K Phos,mmol,480,480,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221347,Amiodarone,mg,476,476,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225910,Pantoprazole (Protonix),mg,474,2980,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221653,Dobutamine,mg,443,443,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225842,Ampicillin,dose,443,471,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228339,Amiodarone 600/500,mg,440,440,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225161,NaCl 3% (Hypertonic Saline),mL,394,394,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225843,Ampicillin/Sulbactam (Unasyn),dose,383,386,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221744,Fentanyl,mg,380,11088,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226372,OR Cell Saver Intake,mL,377,377,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221986,Milrinone,mg,370,370,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229420,Dexmedetomidine (Precedex),mg,366,3773,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225916,TPN w/ Lipids,mL,358,358,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223259,Insulin - NPH,units,355,355,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225970,Beneprotein,grams,350,357,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225881,Linezolid,dose,349,357,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225860,Clindamycin,dose,346,354,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225835,Na Phos,mmol,344,344,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222051,Nitroprusside,mg,341,341,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225888,Nafcillin,dose,329,349,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227533,Sodium Bicarbonate 8.4% (Amp),mL,316,316,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225825,D5NS,mL,312,312,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229654,Amiodarone 450/250,mg,309,309,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225853,Ceftazidime,dose,309,339,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227689,Dilantin,mg,305,305,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229616,Ondansetron (Zofran),mg,303,303,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229234,Clevidipine (Cleviprex),mg,274,274,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229639,Bumetanide (Bumex),mg,270,270,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226880,Nutren Pulmonary (Full),mL,267,267,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225911,Ranitidine (Prophylaxis),dose,265,268,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225879,Levofloxacin,dose,264,271,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225155,Octreotide,mcg,264,364,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221623,Diazepam (Valium),mg,262,262,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228135,Isosource 1.5 (Full),mL,262,262,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225917,TPN without Lipids,mL,257,257,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226368,OR Packed RBC Intake,mL,249,249,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229640,Calcium Gluconate (Bolus),mL,237,237,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225931,Nutren 2.0 (Full),mL,232,232,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229072,Ketorolac (Toradol),mg,230,230,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225899,Bactrim (SMX/TMP),dose,228,232,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225885,Micafungin,dose,228,245,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227975,NovaSource Renal (Full),mL,226,226,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225845,Azithromycin,dose,225,283,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,220950,Dextrose 10%,mL,221,221,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225948,Amino Acids,grams,213,213,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225798,Vancomycin,mg,201,6063,4,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228367,Two Cal HN (Full),mL,198,198,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225930,Peptamen 1.5 (Full),mL,193,193,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225906,Enoxaparin (Lovenox),dose,180,182,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225947,Dextrose PN,grams,177,177,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225869,Fluconazole,dose,172,173,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227694,Omeprazole (Prilosec),dose,169,169,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225832,Folic Acid,mg,169,169,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225827,D5LR,mL,166,166,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229233,Rocuronium,mg,165,165,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227695,Fibersource HN (Full),mL,159,159,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229012,Vital 1.5 (Full),mL,154,154,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225935,Replete (Full),mL,137,137,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225851,Cefepime,grams,137,3390,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225171,Cryoprecipitate,mL,132,132,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225905,Voriconazole,dose,132,133,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225847,Aztreonam,dose,128,132,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227535,Vitamin K (Phytonadione),mg,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226367,OR FFP Intake,mL,127,127,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229070,Glycopyrolate (Robinul),mg,126,126,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225863,Daptomycin,dose,125,125,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226375,PACU Crystalloid Intake,mL,123,123,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227690,Fosphenytoin,mg,120,121,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225909,Lansoprazole (Prevacid),dose,117,118,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226363,Cath Lab Intake,mL,117,117,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226365,OR Colloid Intake,mL,115,115,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225913,Coumadin (Warfarin),dose,112,130,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225890,Penicillin G potassium,dose,111,111,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229574,Fiber Supplement (i.e. Banana Flakes),mL,110,110,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228363,Pulmocare (Full),mL,110,110,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225148,Bivalirudin (Angiomax),mg,105,105,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225969,Lipids (additive),grams,105,105,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226369,OR Platelet Intake,mL,103,103,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225934,Vivonex (Full),mL,102,102,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225884,Metronidazole,mg,101,3012,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225155,Octreotide,mg,100,364,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227520,Methadone Hydrochloride,mg,99,99,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225876,Imipenem/Cilastatin,dose,98,98,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225147,Argatroban,mg,96,96,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229071,Neostigmine (Prostigmin),mg,95,95,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225875,Gentamicin,dose,91,98,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225830,Multivitamins,mL,85,85,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225912,Carafate (Sucralfate),dose,83,83,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227531,Mannitol,grams,83,86,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228383,Peptamen Bariatric (Full),mL,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228140,Dextrose 20%,mL,82,82,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225973,Meperidine (Demerol),mg,81,81,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229057,Acetylcysteine,mg,80,80,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229299,Insulin - Novolog,units,75,75,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229583,Beneprotein.,mL,74,74,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227979,Boost Glucose Control (Full),mL,68,68,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225151,Eptifibatide (Integrilin),mg,65,65,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227530,IV Immune Globulin (IVIG),mL,63,63,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229597,Heparin Sodium (Impella),units,62,62,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225945,Lidocaine,mg,62,62,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225845,Azithromycin,mg,58,283,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225865,Doxycycline,dose,58,60,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225850,Cefazolin,grams,54,2194,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229069,Digoxin (Lanoxin),mg,53,59,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225902,Tobramycin,dose,47,47,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225866,Erythromycin,dose,46,53,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225150,Dexmedetomidine (Precedex),mg,45,2289,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225798,Vancomycin,grams,44,6063,4,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228359,Glucerna (Full),mL,44,44,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222021,Naloxone (Narcan),mg,43,43,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221319,Alteplase (TPA),mg,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221282,Adenosine,mg,42,42,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225907,Famotidine (Pepcid),mg,39,2960,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221393,Atropine,mg,34,34,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225838,Ambisome,dose,33,33,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222062,Vecuronium,mg,33,33,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225855,Ceftriaxone,grams,32,938,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225883,Meropenem,mg,32,1873,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225853,Ceftazidime,grams,30,339,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225842,Ampicillin,grams,28,471,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226371,OR Cryoprecipitate Intake,mL,28,28,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223257,Insulin - 70/30,units,26,26,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221712,Ketamine,mcg,24,907,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225937,Ensure (Full),mL,24,24,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225862,Colistin,dose,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225898,Rifampin,dose,23,23,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229068,Protamine sulfate,mg,22,22,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225840,Amikacin,dose,20,21,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225941,D5 1/4NS,mL,20,20,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225888,Nafcillin,grams,20,349,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225156,Pentobarbital,mg,19,19,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225913,Coumadin (Warfarin),mg,18,130,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229764,Angiotensin II (Giapreza),mg,17,17,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225885,Micafungin,mg,17,245,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225920,Peripheral Parenteral Nutrition,mL,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228142,Dextrose 40%,mL,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,223261,Insulin - Humalog 75/25,units,15,15,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229064,Tigecycline,dose,14,14,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225893,Piperacillin/Tazobactam (Zosyn),mg,14,3006,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,230044,Heparin Sodium (CRRT-Prefilter),units,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228341,NaCl 23.4%,mL,12,12,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226376,PACU Colloid Intake,mL,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229587,Ceftaroline,dose,11,12,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229619,Insulin - U500,units,11,11,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225893,Piperacillin/Tazobactam (Zosyn),grams,10,3006,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226370,OR Autologous Blood Intake,mL,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229618,Calcium Chloride,mg,10,18,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227070,PACU Packed RBC Intake,mL,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225157,Tirofiban (Aggrastat),mg,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225928,Impact with Fiber (Full),mL,10,10,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229058,Aminocaproic acid (Amicar),grams,9,10,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225883,Meropenem,grams,9,1873,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221036,Nutren Renal (Full),mL,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226051,Replete with Fiber (1/2),mL,9,9,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222151,Procainamide,mg,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225881,Linezolid,mg,8,357,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225837,Acyclovir,mg,8,499,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228003,Tamiflu,dose,8,8,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225860,Clindamycin,mg,8,354,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229618,Calcium Chloride,grams,8,18,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225866,Erythromycin,mg,7,53,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225875,Gentamicin,mg,7,98,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225879,Levofloxacin,mg,7,271,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226039,Peptamen 1.5 (1/2),mL,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225970,Beneprotein,dose,7,357,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227698,Fibersource HN (1/2),mL,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225801,Lipids 20%,mL,7,7,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225859,Ciprofloxacin,mg,6,717,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221689,Drotrecogin (Xigris),mg,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225908,Fondaparinux,dose,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221733,Factor VIII,International Units,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226377,PACU PO Intake,mL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225848,Caspofungin,dose,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225795,Dextran 40,mL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225903,Valgancyclovir,dose,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227532,Plasma Pheresis,mL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229760,Epoprostenol (Veletri),mg,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226016,Nutren 2.0 (1/4),mL,5,5,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225873,Gancyclovir,dose,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222318,Verapamil,mg,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225899,Bactrim (SMX/TMP),mg,4,232,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225847,Aztreonam,grams,4,132,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229069,Digoxin (Lanoxin),mcg,4,59,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226877,Ensure Plus (Full),mL,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229617,Epinephrine.,mg,4,4,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227524,Magnesium Sulfate (OB-GYN),grams,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226019,Nutren 2.0 (1/2),mL,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227531,Mannitol,mg,3,86,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225911,Ranitidine (Prophylaxis),mg,3,268,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225843,Ampicillin/Sulbactam (Unasyn),grams,3,386,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227072,PACU FFP Intake,mL,3,3,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228316,Levetiracetam (Keppra),dose,3,738,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,228315,Acetaminophen-IV,grams,2,3933,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225906,Enoxaparin (Lovenox),mg,2,182,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225851,Cefepime,mg,2,3390,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225844,Atovaquone,dose,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,230034,Amiodarone 150/100,mg,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229069,Digoxin (Lanoxin),dose,2,59,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225865,Doxycycline,mg,2,60,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225929,ProBalance (Full),mL,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226050,Replete with Fiber (3/4),mL,2,2,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229615,Esomeprazole (Nexium),dose,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225840,Amikacin,mg,1,21,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,226361,Pre-Admission/Non-ICU Intake,L,1,797,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225855,Ceftriaxone,mg,1,938,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222168,Propofol,mcg,1,22649,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225886,Moxifloxacin,mg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225167,Hydrochloric Acid - HCL,mEq,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225905,Voriconazole,mg,1,133,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225993,Optisource,ounces,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227534,Cyclosporine,mg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225909,Lansoprazole (Prevacid),mg,1,118,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229587,Ceftaroline,grams,1,12,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227071,PACU Platelet Intake,mL,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229058,Aminocaproic acid (Amicar),mg,1,10,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227692,Isuprel,mg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221289,Epinephrine,mcg,1,1365,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229861,Sodium Acetate.,mEq,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227691,Keflex,dose,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225994,Mighty Shake (Vanilla/Strawberry),mL,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225914,Factor VIIa,mcg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225907,Famotidine (Pepcid),grams,1,2960,3,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225798,Vancomycin,mcg,1,6063,4,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225892,Piperacillin,grams,1,520,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,229061,Ertapenem sodium (Invanz),dose,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,227690,Fosphenytoin,dose,1,121,2,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,221261,Abciximab (Reopro),mg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,222037,Nesiritide,mg,1,1,1,UNVERIFIED - TEAM REVIEW REQUIRED
+inputevents.csv.gz,225869,Fluconazole,mg,1,173,2,UNVERIFIED - TEAM REVIEW REQUIRED
