@@ -1,5 +1,5 @@
 Person 2 local MIMIC-IV discovery report
-Dataset: C:\Users\vasis\OneDrive - PESUNIVERSITY\mimic-iv-3.1\icu
+Dataset: MIMIC_IV_ROOT/icu
 chartevents bounded first 1,000,000 rows; full scan: no; 4.44 sec
 inputevents bounded first 500,000 rows; full scan: no; 5.95 sec
 d_items complete: 4,095; icustays complete: 94,458

@@ -1,31 +1,31 @@
 {
-  "dataset": "C:\\Users\\vasis\\OneDrive - PESUNIVERSITY\\mimic-iv-3.1\\icu",
-  "results": "C:\\Users\\vasis\\Documents\\Codex\\2026-10-28\\task-implement-person-2-mimic-iv\\outputs\\aki_person2_results",
+  "dataset": "MIMIC_IV_ROOT/icu",
+  "results": "LOCAL_RESULTS_DIR",
   "file_inventory": [
     {
       "file": "chartevents.csv.gz",
-      "path": "C:\\Users\\vasis\\OneDrive - PESUNIVERSITY\\mimic-iv-3.1\\icu\\chartevents.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/chartevents.csv.gz",
       "exists": true,
       "size_bytes": 3502392765,
       "columns": "subject_id;hadm_id;stay_id;caregiver_id;charttime;storetime;itemid;value;valuenum;valueuom;warning"
     },
     {
       "file": "d_items.csv.gz",
-      "path": "C:\\Users\\vasis\\OneDrive - PESUNIVERSITY\\mimic-iv-3.1\\icu\\d_items.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/d_items.csv.gz",
       "exists": true,
       "size_bytes": 58741,
       "columns": "itemid;label;abbreviation;linksto;category;unitname;param_type;lownormalvalue;highnormalvalue"
     },
     {
       "file": "icustays.csv.gz",
-      "path": "C:\\Users\\vasis\\OneDrive - PESUNIVERSITY\\mimic-iv-3.1\\icu\\icustays.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/icustays.csv.gz",
       "exists": true,
       "size_bytes": 3342355,
       "columns": "subject_id;hadm_id;stay_id;first_careunit;last_careunit;intime;outtime;los"
     },
     {
       "file": "inputevents.csv.gz",
-      "path": "C:\\Users\\vasis\\OneDrive - PESUNIVERSITY\\mimic-iv-3.1\\icu\\inputevents.csv.gz",
+      "path": "MIMIC_IV_ROOT/icu/inputevents.csv.gz",
       "exists": true,
       "size_bytes": 401088206,
       "columns": "subject_id;hadm_id;stay_id;caregiver_id;starttime;endtime;storetime;itemid;amount;amountuom;rate;rateuom;orderid;linkorderid;ordercategoryname;secondaryordercategoryname;ordercomponenttypedescription;ordercategorydescription;patientweight;totalamount;totalamountuom;isopenbag;continueinnextdept;statusdescription;originalamount;originalrate"
