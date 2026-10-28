@@ -1,0 +1,23 @@
+# Local environment and credentials
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.pytest-tmp/
+# MIMIC-IV source extracts and generated patient-level data
+*.csv.gz
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.feather
+data/
+outputs/
+!config/measurement_mapping.template.csv
+!config/medication_mapping.template.csv

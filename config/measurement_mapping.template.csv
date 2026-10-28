@@ -1,0 +1,2 @@
+itemid,feature_name,source_unit,canonical_unit,conversion_rule,enabled,approval_status,notes
+,,,,identity,false,pending,Replace with verified MIMIC d_items itemid and clinically reviewed unit mapping

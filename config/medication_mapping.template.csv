@@ -1,0 +1,2 @@
+itemid,medication_name,medication_class,required_unit,required_route,administration_semantics,enabled,approval_status,notes
+,,,,,pending,false,pending,Verify itemid and administration semantics against d_items and project clinical protocol
