@@ -1,4 +1,4 @@
-# Person 2: structured measurements and medication preprocessing
+structured measurements and medication preprocessing
 
 ## Scope and sources
 
