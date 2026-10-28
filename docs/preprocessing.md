@@ -9,7 +9,7 @@ This package filters local MIMIC-IV v3.1 files by a team-reviewed, explicit `ite
 * `icu/d_items.csv.gz`: `itemid`, `label` (used to validate mapped IDs exist; descriptions do not approve mappings).
 * `icu/icustays.csv.gz`: `stay_id`, `intime`, `outtime`.
 
-The pipeline does not modify Person 1's cohort or KDIGO labels and does not implement predictions, ML, clinical-note preparation, or eICU harmonization.
+The pipeline does not modify cohort or KDIGO labels and does not implement predictions, ML, clinical-note preparation, or eICU harmonization.
 
 ## Installation and tests
 
@@ -62,4 +62,4 @@ Approved boluses contribute to exactly the hour containing their valid `starttim
 
 ## Leakage and limitations
 
-All output hours preserve ICU-relative timing so downstream cohort/prediction-time code can enforce its horizon. The package does not have Person 1's cohort labels or prediction cutoffs, so it cannot perform a target-aware leakage audit. It never fills earlier hours from later values and does not itself trim records to a prediction cutoff. Downstream integration must apply the approved prediction time/horizon before using features. Clinical item selection, unit definitions/conversions, medication class labels, routes, and bolus/infusion semantics still require team and clinical review. MIMIC duplicate rows are treated as observed records; determining whether a particular duplicate is erroneous is outside this package.
+All output hours preserve ICU-relative timing so downstream cohort/prediction-time code can enforce its horizon. The package does not have cohort labels or prediction cutoffs, so it cannot perform a target-aware leakage audit. It never fills earlier hours from later values and does not itself trim records to a prediction cutoff. Downstream integration must apply the approved prediction time/horizon before using features. Clinical item selection, unit definitions/conversions, medication class labels, routes, and bolus/infusion semantics still require team and clinical review. MIMIC duplicate rows are treated as observed records; determining whether a particular duplicate is erroneous is outside this package.
