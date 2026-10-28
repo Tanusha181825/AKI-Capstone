@@ -1,4 +1,4 @@
-Person 2 local MIMIC-IV discovery report
+Local MIMIC-IV discovery report
 Dataset: MIMIC_IV_ROOT/icu
 chartevents bounded first 1,000,000 rows; full scan: no; 4.44 sec
 inputevents bounded first 500,000 rows; full scan: no; 5.95 sec

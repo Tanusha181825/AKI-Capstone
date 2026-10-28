@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "mimic-iv-preprocessing"
 version = "0.1.0"
-description = "Memory-conscious Person 2 MIMIC-IV structured preprocessing"
+description = "Memory-conscious MIMIC-IV structured preprocessing"
 requires-python = ">=3.10"
 dependencies = ["pandas>=2.0"]
 
