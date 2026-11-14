@@ -1,0 +1,3 @@
+# Copy to config/paths.yaml and set your local authorized MIMIC-IV directory.
+datasets:
+  mimic_root: "/path/to/mimic-iv-3.1"

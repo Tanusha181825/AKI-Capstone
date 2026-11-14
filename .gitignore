@@ -1,8 +1,9 @@
-# Local environment and credentials
+# Environments, credentials and machine-specific configuration
 .env
 .env.*
 .venv/
 venv/
+.dist/
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -10,17 +11,34 @@ build/
 dist/
 .pytest_cache/
 .pytest-tmp/
-# MIMIC-IV source extracts and generated patient-level data
+/config/paths.yaml
+/configs/
+
+# Patient-level data, derived datasets, databases and local reference checkout
+/data/
+/outputs/
+/reference-mimic-code/
 *.csv.gz
 *.csv
 *.parquet
+*.duckdb
+*.duckdb.wal
 *.pkl
 *.pickle
 *.feather
-data/
-outputs/
+*.pending
 !config/measurement_mapping.template.csv
 !config/medication_mapping.template.csv
+
+# Earlier local extraction/audit work is preserved but is not finalized code.
+/src/cohort/
+/src/labels/build_reference_kdigo.py
+/reports/*
+!/reports/labeling/
+/reports/labeling/*
+!/reports/labeling/validation.json
+
+# Preserve upstream aggregate-report exceptions; do not add patient-level results.
 !results/
 !results/mimic-iv-structured-discovery/
 !results/mimic-iv-structured-discovery/*.csv

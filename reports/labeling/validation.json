@@ -1,0 +1,200 @@
+{
+  "policy_approved": "2026-11-14",
+  "checks": {
+    "duplicate_stays": 0,
+    "duplicate_timeline": 0,
+    "invalid_icu_intervals": 0,
+    "invalid_stages": 0,
+    "identifier_mismatch": 0,
+    "onset_mismatch": 0,
+    "severe_mismatch": 0,
+    "onset_outside_icu": 0,
+    "availability_before_event": 0,
+    "future_weight_used": 0,
+    "incomplete_urine_stage2": 0,
+    "incomplete_urine_stage3": 0,
+    "chronic_dialysis_eligible": 0,
+    "unproven_negatives": 0,
+    "unsupported_incident": 0,
+    "nonpositive_creatinine_staged": 0,
+    "cohort_loss": 0,
+    "stay_roundtrip_count": 0,
+    "timeline_roundtrip_count": 0
+  },
+  "counts": {
+    "stay_summary": [
+      {
+        "stays": 94458,
+        "patients": 65366,
+        "severe": 26575,
+        "outcome_unknown": 67883,
+        "incident": 14421,
+        "confirmed_at_admission": 1,
+        "pre_icu_severe": 4572,
+        "eligible_incident": 14421,
+        "chronic_dialysis_or_esrd": 4811,
+        "no_icu_evidence": 915
+      }
+    ],
+    "stage_distribution": [
+      {
+        "max_kdigo_stage": 0,
+        "n": 43368
+      },
+      {
+        "max_kdigo_stage": 1,
+        "n": 15488
+      },
+      {
+        "max_kdigo_stage": 2,
+        "n": 18754
+      },
+      {
+        "max_kdigo_stage": 3,
+        "n": 7821
+      },
+      {
+        "max_kdigo_stage": null,
+        "n": 9027
+      }
+    ],
+    "exclusions": [
+      {
+        "exclusion_reason": "negative_outcome_unverified",
+        "n": 62450
+      },
+      {
+        "exclusion_reason": "",
+        "n": 14421
+      },
+      {
+        "exclusion_reason": "incident_status_unresolved",
+        "n": 9887
+      },
+      {
+        "exclusion_reason": "chronic_dialysis_or_esrd;negative_outcome_unverified",
+        "n": 3128
+      },
+      {
+        "exclusion_reason": "preexisting_severe_evidence;incident_status_unresolved",
+        "n": 2078
+      },
+      {
+        "exclusion_reason": "chronic_dialysis_or_esrd;preexisting_severe_evidence;negative_outcome_unverified",
+        "n": 1683
+      },
+      {
+        "exclusion_reason": "preexisting_severe_evidence;negative_outcome_unverified",
+        "n": 622
+      },
+      {
+        "exclusion_reason": "preexisting_severe_evidence",
+        "n": 189
+      }
+    ],
+    "onset_sources": [
+      {
+        "onset_source": "creatinine",
+        "n": 6396
+      },
+      {
+        "onset_source": "creatinine+urine",
+        "n": 4
+      },
+      {
+        "onset_source": "urine",
+        "n": 20175
+      }
+    ],
+    "availability": [
+      {
+        "unknown_severe_time": 314286,
+        "delayed_severe_rows": 160514,
+        "timeline_rows": 5108160
+      }
+    ],
+    "reference_comparison": [
+      {
+        "reference_severe": false,
+        "approved_severe": false,
+        "n": 2679110
+      },
+      {
+        "reference_severe": true,
+        "approved_severe": null,
+        "n": 408276
+      },
+      {
+        "reference_severe": true,
+        "approved_severe": false,
+        "n": 79542
+      },
+      {
+        "reference_severe": false,
+        "approved_severe": null,
+        "n": 1211520
+      },
+      {
+        "reference_severe": true,
+        "approved_severe": true,
+        "n": 450421
+      },
+      {
+        "reference_severe": false,
+        "approved_severe": true,
+        "n": 23383
+      }
+    ],
+    "reference_counts": [
+      {
+        "table_name": "crrt",
+        "estimated_size": 475214
+      },
+      {
+        "table_name": "kdigo_creatinine",
+        "estimated_size": 811585
+      },
+      {
+        "table_name": "kdigo_stages",
+        "estimated_size": 5099899
+      },
+      {
+        "table_name": "kdigo_uo",
+        "estimated_size": 4127634
+      },
+      {
+        "table_name": "urine_output",
+        "estimated_size": 4127634
+      },
+      {
+        "table_name": "urine_output_rate",
+        "estimated_size": 4126485
+      },
+      {
+        "table_name": "weight_durations",
+        "estimated_size": 401848
+      }
+    ]
+  },
+  "seconds": 108.59,
+  "limitations": [
+    "No true negative outcomes asserted: intermittent measurements do not prove absence across the entire stay.",
+    "Incident means first observed severe evidence after earlier nonsevere creatinine AND urine evidence, not proof of biological onset.",
+    "RRT stage 3 is observed evidence only; acute indication/chronicity not inferred. Confirmed severe_aki requires independent non-RRT severe evidence.",
+    "Discharge ESRD/dialysis codes are retrospective exclusions, never online features; absence of codes does not establish no chronic dialysis.",
+    "Clinical charttime is retrospective; do not use a stage before its criterion-specific available_at. Unknown availability is not assumed timely.",
+    "Reference creatinine observations begin seven days before ICU admission, truncating earlier rolling baselines; no imputation.",
+    "Uniform volume allocation within inferred urine intervals is an assumption; full coverage does not establish continuous observation.",
+    "RRT SCUF omitted because isolated ultrafiltration does not establish acute kidney injury."
+  ],
+  "outputs": {
+    "data/processed/aki_stay_labels.parquet": {
+      "bytes": 3261773,
+      "sha256": "8b9dd4671382b8eb010dad667cf5383c0a1b6a71ecb464d1f6a5d41f6d5d0851"
+    },
+    "data/processed/aki_timeline_labels.parquet": {
+      "bytes": 211202831,
+      "sha256": "ab1b7a9cbae859bf977a84d84b5591ec408a87a739cb95c2b175348cb6cd57b0"
+    }
+  }
+}
