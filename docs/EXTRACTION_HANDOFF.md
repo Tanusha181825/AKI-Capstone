@@ -135,3 +135,5 @@ With the commands above, the full output is at %LOCALAPPDATA%\AKI-feature-extrac
 - Added configurable lookback, creatinine and urine slopes, and four administration start counts.
 - Verified fictional boundary and timing cases, real six- and 24-hour pilots, and the full six-hour extraction.
 - Pending the teammate's label timestamps, confirm the first-onset versus progression definition, join coverage, censoring and the near-onset renal-feature audit.
+
+See the [synthetic feature output](SYNTHETIC_FEATURE_OUTPUT.md) for all 25 fields across three fictional prediction windows.
