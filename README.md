@@ -1,8 +1,7 @@
 # AKI Capstone
 
 Research project for predicting new-onset severe acute kidney injury in ICU patients.
-This branch contains the completed, conservatively labeled KDIGO evidence pipeline.
-It does not implement prediction windows or model training.
+The repository includes a KDIGO labeling pipeline and a structured ICU feature extractor.
 
 ## Structure
 
@@ -13,6 +12,7 @@ docs/
   labeling.md                 # Approved definitions, findings and limitations
   preprocessing.md            # Existing collaborator preprocessing documentation
 src/
+  features/                   # Feature notebook, runner, and verifier
   labels/
     build_final_labels.py     # Final labeling entry point
 tests/
@@ -28,10 +28,14 @@ pyproject.toml                # Existing package configuration + labeling extras
 
 Keep future completed code under `src/cohort/`, `src/features/`, `src/models/`
 and `src/evaluation/`, with matching tests and docs. Do not add empty modules or
-placeholder implementations. Features/models/evaluation are not implemented here.
+placeholder implementations. Model training and evaluation remain downstream.
 The earlier local `src/cohort/` audit scripts, reference loader, `configs/`, CSV
 reports, virtual environment and MIMIC reference checkout are preserved and ignored.
 They have not been promoted as a finalized extraction workflow.
+
+## Structured feature extraction
+
+The extractor builds one row per ICU stay and six-hour prediction cutoff using measurements available at that time. See the [setup, validation, and label handoff](docs/EXTRACTION_HANDOFF.md) and the [literature evidence](docs/LITERATURE_EVIDENCE.md).
 
 ## Labeling setup
 
